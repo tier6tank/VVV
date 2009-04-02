@@ -1,0 +1,38 @@
+﻿cz:
+Karel Kozlík
+kozlik@kufr.cz
+
+de:
+Steve Köhler
+nethunter@gmx.de
+
+es:
+David de Castro
+david.decastro@gmail.com
+
+fr:
+Frédéric Gacquer
+Frederic.Gacquer@univ-orleans.fr
+
+hr:
+Hasan Osmanagić
+hasan.osmanagic@zg.t-com.hr
+
+nl:
+Gideon van Melle
+gvmelle@gmail.com
+
+pl:
+Dariusz Liszewski
+d2m@op.pl
+//Grzegorz Skoczylas
+//gskoczylas@gmail.com
+
+pt:
+Pedro Cunha
+pmferreirac@gmail.com
+
+pt-br:
+Cláudio Mantovani Vieira
+claudio.mantovani@itelefonica.com.br
+
