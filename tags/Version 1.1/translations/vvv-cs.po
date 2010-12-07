@@ -1,0 +1,1520 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VVV 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-11-20 23:16+0100\n"
+"PO-Revision-Date: 2010-12-01 22:19+0100\n"
+"Last-Translator: Fulvio Senore <mailing@fsoft.it>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: E:\\C_Prg\\vvv (virtual volumes view)\\src\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-SearchPath-0: E:\\C_Prg\\vvv (virtual volumes view)\\src\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:174
+msgid "Enter or select the volume to catalog"
+msgstr "Vložte nebo vyberte svazek ke katalogizaci"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:183
+#: view)\src/exportdata.cpp:223
+#: view)\src/opencatalog.cpp:174
+#: view)\src/restore.cpp:168
+#: view)\src/restore.cpp:180
+#: view)\src/update_volume.cpp:197
+msgid "..."
+msgstr "..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:186
+msgid "Volume name"
+msgstr "Jméno svazku"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:196
+msgid "Get volume name"
+msgstr "Získej jméno svazku"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:204
+#: view)\src/exportdata.cpp:230
+#: view)\src/exportdata.cpp:248
+#: view)\src/mainframe.cpp:854
+#: view)\src/restore.cpp:187
+#: view)\src/restore.cpp:205
+#: view)\src/update_volume.cpp:203
+msgid "&Help"
+msgstr "&Nápověda"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:209
+#: view)\src/mainframe.cpp:867
+#: view)\src/mainframe.cpp:4034
+msgid "Catalog"
+msgstr "Katalogizace"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:212
+#: view)\src/update_volume.cpp:211
+msgid "&Close"
+msgstr "&Zavřít"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:215
+#: view)\src/update_volume.cpp:214
+msgid "Current folder"
+msgstr "Aktuální adresář"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:218
+msgid "Previously cataloged volumes"
+msgstr "Dříve katalogizované svazky"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:288
+#: view)\src/update_volume.cpp:269
+msgid "The volume path is missing"
+msgstr "Chybí cesta ke svazku"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:293
+msgid "The volume name is missing"
+msgstr "Chybí jméno svazku"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:310
+msgid "This volume name is already present in the database"
+msgstr "Toto jméno svazku již v databázi existuje"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:357
+#: view)\src/update_volume.cpp:296
+msgid "Select the volume to catalog"
+msgstr "Vyberte svazek ke katalogizaci"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume_functions.cpp:328
+msgid "Number of added files: "
+msgstr "Počet přidaných souborů:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume_functions.cpp:329
+msgid "Number of updated files: "
+msgstr "Počet aktualizovaných souborů:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume_functions.cpp:330
+msgid "Number of deleted files (not counting those in deleted folders): "
+msgstr "Počet smazaných souborů (nepočítají se soubory ve smazaných adresářích):"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume_functions.cpp:331
+msgid "Number of deleted folders: "
+msgstr "Počet smazaných adresářů:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume_functions.cpp:332
+msgid "Number of unchanged files: "
+msgstr "Počet nezměněných souborů:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume_functions.cpp:333
+msgid "Do you really want to update the volume?"
+msgstr "Opravdu chcete svazek aktualizovat?"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:77
+#, c-format
+msgid "Unknown locale code '%s' in registry."
+msgstr "Neznámý kód jazyka '%s' v registru."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:94
+msgid "(Use default language)"
+msgstr "(Použij výchozí jazyk)"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:96
+#: view)\src/mainframe.cpp:2364
+msgid "Croatian"
+msgstr "Chorvatsky"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:97
+#: view)\src/mainframe.cpp:2361
+msgid "Czech"
+msgstr "Česky"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:98
+#: view)\src/mainframe.cpp:2368
+msgid "Dutch"
+msgstr "Holandsky"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:99
+msgid "English"
+msgstr "Anglicky"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:100
+#: view)\src/mainframe.cpp:2359
+msgid "French"
+msgstr "Francouzsky"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:101
+#: view)\src/mainframe.cpp:2360
+msgid "German"
+msgstr "Německy"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:102
+#: view)\src/mainframe.cpp:2366
+msgid "Italian"
+msgstr "Italsky"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:103
+#: view)\src/mainframe.cpp:2362
+msgid "Polish"
+msgstr "Polsky"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:104
+#: view)\src/mainframe.cpp:2357
+msgid "Portuguese"
+msgstr "Portugalsky"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:105
+#: view)\src/mainframe.cpp:2367
+msgid "Romanian"
+msgstr "Rumunsky"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:106
+#: view)\src/mainframe.cpp:2363
+msgid "Russian"
+msgstr "Rusky"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:107
+msgid "Serbian (cyrillic)"
+msgstr "Srbsky (cyrilice)"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:108
+msgid "Serbian (latin)"
+msgstr "Srbsky (latinka)"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:109
+#: view)\src/mainframe.cpp:2358
+msgid "Spanish"
+msgstr "Španělsky"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:110
+#: view)\src/mainframe.cpp:2363
+msgid "Ukrainian"
+msgstr "Ukrajinsky"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:119
+msgid "Select your preferred language"
+msgstr "Vyberte preferovaný jazyk"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:120
+msgid "Language selection"
+msgstr "Výběr jazyka"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:134
+msgid "You must restart the program for this change to take effect."
+msgstr "Aby se vaše změna projevila, musíte program restartovat."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/choose_virtual_folder.cpp:157
+msgid "Please select the virtual folder that will receive the selected files and/or folders:"
+msgstr "Prosím vyberte virtuální adresář do kterého chcete vložit vybrané soubory a/nebo adresáře:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/choose_virtual_folder.cpp:169
+#: view)\src/choose_virtual_folder.cpp:187
+#: view)\src/exportdata.cpp:235
+#: view)\src/exportdata.cpp:256
+#: view)\src/object_description.cpp:158
+#: view)\src/object_description.cpp:174
+#: view)\src/opencatalog.cpp:181
+#: view)\src/opencatalog.cpp:197
+#: view)\src/restore.cpp:192
+#: view)\src/restore.cpp:213
+msgid "&OK"
+msgstr "&OK"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/choose_virtual_folder.cpp:173
+#: view)\src/choose_virtual_folder.cpp:184
+#: view)\src/exportdata.cpp:239
+#: view)\src/exportdata.cpp:253
+#: view)\src/object_description.cpp:162
+#: view)\src/object_description.cpp:171
+#: view)\src/opencatalog.cpp:185
+#: view)\src/opencatalog.cpp:194
+#: view)\src/restore.cpp:196
+#: view)\src/restore.cpp:210
+msgid "&Cancel"
+msgstr "&Zrušit"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/convert_db_unicode.cpp:520
+msgid "Conversion is about to start: a message will tell you when it will be completed."
+msgstr "Začínám konvertovat. Po dokončení bude zobrazena zpráva."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/convert_db_unicode.cpp:546
+msgid "Conversion completed"
+msgstr "Konverze hotová"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:191
+msgid "Use this window to export data to a CSV file"
+msgstr "Export dat do CSV souboru"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:195
+msgid "Comma"
+msgstr "Čárka"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:196
+msgid "TAB"
+msgstr "Tabulátor"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:197
+msgid "Pipe"
+msgstr "Svislítko"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:198
+msgid "Separator"
+msgstr "Oddělovač"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:202
+msgid "Include headers"
+msgstr "Začlenit hlavičky"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:207
+#: view)\src/mainframe.cpp:966
+msgid "All physical volumes"
+msgstr "Všechny fyzické svazky"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:208
+msgid "Selected physical volume/folder"
+msgstr "Vybraný fyzický svazek/adresář"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:209
+#: view)\src/mainframe.cpp:968
+msgid "Selected virtual folder"
+msgstr "Vybraný virtuální adresář"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:210
+msgid "Export"
+msgstr "Export"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:214
+msgid "File name:"
+msgstr "Jméno souboru:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:309
+msgid "CSV files (*.csv;*.txt)|*.csv;*.txt|All files (*.*)|*.*"
+msgstr "CSV soubory (*.csv;*.txt)|*.csv;*.txt|Všechny soubory (*.*)|*.*"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:336
+msgid "Please enter a file name"
+msgstr "Prosím vložte jméno souboru"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:341
+msgid "The output file already exists: do you want to overwrite it?"
+msgstr "Výstupní soubor již existuje. Chcete jej přepsat?"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:344
+#: view)\src/exportdata.cpp:358
+msgid "Unable to create the file."
+msgstr "Nemohu vytvořit soubor."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:524
+#: view)\src/exportdata.cpp:526
+#: view)\src/mainframe.cpp:1295
+msgid "Name"
+msgstr "Jméno"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:524
+#: view)\src/exportdata.cpp:526
+#: view)\src/mainframe.cpp:1300
+msgid "Size"
+msgstr "Velikost"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:524
+#: view)\src/exportdata.cpp:526
+#: view)\src/mainframe.cpp:1304
+msgid "Ext"
+msgstr "Přípona"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:524
+#: view)\src/exportdata.cpp:526
+#: view)\src/mainframe.cpp:1308
+msgid "Last modified"
+msgstr "Poslední změna"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:524
+msgid "PhysicalPath"
+msgstr "Fyzická cesta"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:524
+#: view)\src/exportdata.cpp:526
+#: view)\src/mainframe.cpp:956
+#: view)\src/mainframe.cpp:1316
+#: view)\src/mainframe.cpp:1321
+msgid "Description"
+msgstr "Popis"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:526
+msgid "Volume"
+msgstr "Svazek"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:526
+msgid "Path"
+msgstr "Cesta"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:736
+msgid ""
+"This catalog file does not exist:\n"
+"\n"
+msgstr ""
+"Tento soubor katalogu neexistuje:\n"
+"\n"
+
+# Part of the File menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:798
+msgid "&New..."
+msgstr "&Nový..."
+
+# Part of the File menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:799
+msgid "&Open..."
+msgstr "&Otevřít..."
+
+# Part of the File menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:800
+msgid "&Export..."
+msgstr "&Exportovat..."
+
+# Part of the File menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:802
+msgid "&Backup..."
+msgstr "&Zálohovat..."
+
+# Part of the File menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:803
+msgid "&Restore..."
+msgstr "O&bnovit..."
+
+# Part of the File menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:805
+msgid "E&xit"
+msgstr "&Konec"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:806
+msgid "&File"
+msgstr "&Soubor"
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:808
+msgid "&Add To Virtual Folder..."
+msgstr "&Přidat do virtuálního adresáře..."
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:810
+msgid "&Rename...\tF2"
+msgstr "Př&ejmenovat...\tF2"
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:811
+msgid "&Delete"
+msgstr "&Smazat"
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:813
+msgid "&Object Description..."
+msgstr "Popis &Objektů..."
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:815
+msgid "&New Virtual Root Folder..."
+msgstr "Nový Virtuální &Kořenový Adresář"
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:816
+msgid "New Virtual &Subfolder..."
+msgstr "&Nový Virtuální Podadresář"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:818
+#: view)\src/mainframe.cpp:844
+msgid "&Options..."
+msgstr "&Nastavení..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:820
+msgid "&Edit"
+msgstr "&Editace"
+
+# Part of the Volumes menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:822
+msgid "&Catalog Volume..."
+msgstr "&Katalogizuj svazek..."
+
+# Part of the Volumes menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:823
+msgid "&Update Volume..."
+msgstr "&Aktualizuj svazek..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:824
+msgid "&Volumes"
+msgstr "&Svazky"
+
+# Part of the View menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:826
+msgid "&Physical View"
+msgstr "&Fyzické zobrazení"
+
+# Part of the View menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:828
+msgid "&Virtual View"
+msgstr "&Virtuální zobrazení"
+
+# Part of the View menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:829
+msgid "&Search View"
+msgstr "V&yhledávání"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:831
+#: view)\src/mainframe.cpp:3150
+msgid "Show in physical view"
+msgstr "Zobraz ve fyzickém zobrazení"
+
+# Part of the View menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:832
+msgid "Go &Up One Level"
+msgstr "&Jdi o úroveň výše"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:833
+#: view)\src/mainframe.cpp:2561
+#: view)\src/mainframe.cpp:2598
+msgid "Expand"
+msgstr "Rozvinout"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:834
+#: view)\src/mainframe.cpp:2562
+#: view)\src/mainframe.cpp:2599
+msgid "Collapse"
+msgstr "Svinout"
+
+# Part of the View menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:836
+msgid "&Toolbar"
+msgstr "&Nástrojová lišta"
+
+# Part of the View menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:838
+msgid "Status &Bar"
+msgstr "&Stavová lišta"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:840
+msgid "Vie&w"
+msgstr "&Zobrazení"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:846
+msgid "&Tools"
+msgstr "&Nástroje"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:849
+msgid "Help &Contents"
+msgstr "Obsah &nápovědy"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:853
+msgid "&About VVV..."
+msgstr "&O aplikaci VVV..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:861
+#: view)\src/mainframe.cpp:4028
+msgid "New"
+msgstr "Nový"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:861
+#: view)\src/mainframe.cpp:4028
+msgid "Create a new catalog"
+msgstr "Vytvoř nový katalog"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:864
+#: view)\src/mainframe.cpp:4031
+msgid "Open"
+msgstr "Otevři"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:864
+#: view)\src/mainframe.cpp:4031
+msgid "Open an existing catalog"
+msgstr "Otevři existující katalog"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:867
+#: view)\src/mainframe.cpp:4034
+msgid "Catalog a new volume"
+msgstr "Katalogizovat nový svazek"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:870
+#: view)\src/mainframe.cpp:4037
+msgid "Up"
+msgstr "Nahoru"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:870
+#: view)\src/mainframe.cpp:4037
+msgid "Move up one level"
+msgstr "Přesuň se o úroveň výše"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:874
+#: view)\src/mainframe.cpp:4041
+msgid "Physical"
+msgstr "Fyzický"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:874
+#: view)\src/mainframe.cpp:4041
+msgid "Show the physical view"
+msgstr "Přepni na fyzické zobrazení"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:877
+#: view)\src/mainframe.cpp:4044
+msgid "Virtual"
+msgstr "Virtuální"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:877
+#: view)\src/mainframe.cpp:4044
+msgid "Show the virtual view"
+msgstr "Přepni na virtuální zobrazení"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:880
+#: view)\src/mainframe.cpp:969
+#: view)\src/mainframe.cpp:975
+#: view)\src/mainframe.cpp:4047
+msgid "Search"
+msgstr "Vyhledávání"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:880
+#: view)\src/mainframe.cpp:4047
+msgid "Show the search view"
+msgstr "Přepni na vyhledávání"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:932
+#: view)\src/mainframe.cpp:953
+msgid "Is equal to:"
+msgstr "Je stejný jako:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:933
+#: view)\src/mainframe.cpp:954
+msgid "Starts with:"
+msgstr "Začíná na:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:934
+#: view)\src/mainframe.cpp:955
+msgid "Contains:"
+msgstr "Obsahuje:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:935
+msgid "File name"
+msgstr "Jméno souboru"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:944
+msgid "Extension:"
+msgstr "Přípona:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:967
+msgid "Selected physical folder"
+msgstr "Vybraný fyzický adresář"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1071
+msgid "Catalog volume"
+msgstr "Katalogizuj svazek"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1313
+msgid "Physical path"
+msgstr "Fyzická cesta"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1363
+#: view)\src/settings.cpp:209
+msgid "Artist"
+msgstr "Umělec"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1368
+#: view)\src/settings.cpp:213
+msgid "Album"
+msgstr "Album"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1373
+#: view)\src/settings.cpp:217
+msgid "Title"
+msgstr "Název"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1378
+#: view)\src/settings.cpp:221
+msgid "Year"
+msgstr "Rok"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1383
+#: view)\src/settings.cpp:225
+msgid "Comment"
+msgstr "Komentář"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1388
+msgid "Number"
+msgstr "Stopa"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1393
+#: view)\src/settings.cpp:233
+msgid "Genre"
+msgstr "Žánr"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1398
+#: view)\src/settings.cpp:237
+msgid "Length"
+msgstr "Délka"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1403
+#: view)\src/settings.cpp:241
+msgid "Bitrate"
+msgstr ""
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1408
+#: view)\src/settings.cpp:245
+msgid "Sample rate"
+msgstr ""
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1413
+#: view)\src/settings.cpp:249
+msgid "Channels"
+msgstr "Kanály"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1442
+msgid "Open catalog"
+msgstr "Otevři katalog"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1446
+#: view)\src/mainframe.cpp:3622
+msgid "VVV  files (*.vvv)|*.vvv|All files (*.*)|*.*"
+msgstr "VVV  soubory (*.vvv)|*.vvv|Všechny soubory (*.*)|*.*"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1891
+msgid "Choose virtual folder"
+msgstr "Vyber virtuální adresář"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1977
+msgid "New virtual root folder"
+msgstr "Nový virtuální kořenový adresář"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2005
+msgid "New virtual subfolder"
+msgstr "Nový virtuální podadresář"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2023
+#: view)\src/mainframe.cpp:3385
+msgid "Enter the new folder name"
+msgstr "Vložte jméno nového adresáře"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2038
+#: view)\src/mainframe.cpp:3396
+msgid "The new folder name is already present in the database"
+msgstr "Adresář s tímto jménem již v databázi existuje"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2091
+msgid "This catalog file does not exist any more"
+msgstr "Soubor katalogu s tímto jménem neexistuje"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2121
+msgid ""
+"Catalog not found:\n"
+"\n"
+msgstr ""
+"Katalog nenalezen:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2125
+msgid ""
+"Incorrect username or password for the following database:\n"
+"\n"
+msgstr ""
+"Špatné uživatelské jméno nebo heslo pro následující databázi:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2130
+msgid ""
+"Unable to connect to the following server:\n"
+"\n"
+msgstr ""
+"Nelze se připojit k následujícímu serveru:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2132
+msgid ""
+"Unable to open the catalog.\n"
+"Please note that you are not connected to a database server so you cannot open a catalog located on another computer in the network.\n"
+"If you want to open a catalog on another computer you must connect to the database server (Tools/Options menu)."
+msgstr ""
+"Nelze otevřít katalog.\n"
+"Prosím vezměte v úvahu že nejste připojen k databázovému serveru takže nemůžete otevírat katalogy umístěné na jiném počítači v síti.\n"
+"Pokud chcete otevřít katalog na jiném počítači, musíte se připojit k databázovému serveru (menu: Nástroje/Nastavení)."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2154
+msgid ""
+"This catalog has been created with a previous version of the program and it needs to be upgraded, but the file containing the upgrades list is missing.\n"
+"\n"
+"You can try reinstalling the program to solve this problem."
+msgstr ""
+"Tento katalog byl vytvořen předchozí verzí tohoto programu a potřebuje být aktualízován. Ale soubor obsahující seznam aktualizací chybí.\n"
+"\n"
+"Můžete zkusit přeinstalovat tento program k vyřešení problému."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2158
+msgid "Upgrading the catalog, please wait..."
+msgstr "Aktualizuji katalog, prosim počkejte..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2170
+msgid ""
+"This catalog has been created with an older version of VVV so you need to convert it to a newer format.\n"
+"\n"
+msgstr ""
+"Tento katalog byl vytvořen starší verzí VVV a potřebuje být zkonvertován na novější formát.\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2171
+msgid ""
+"The conversion will create a new catalog with the same data as the older one, then you will use this new catalog with VVV. You will not use the older catalog any more.\n"
+"\n"
+msgstr ""
+"Konverze vytvoří nový katalog se stejným jménem jako starý. Potom můžete používat nový katalog s VVV a nebudete již více používat starý katalog.\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2172
+msgid "Do you want to convert the catatalog creating a new one?"
+msgstr "Chcete zkonvertovat katalog do nového?"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2176
+#: view)\src/mainframe.cpp:2380
+msgid ""
+"Unable to create a new catalog.\n"
+"\n"
+"You are connecting to a database server on another computer. You must execute this program on the server to be able to create a new catalog."
+msgstr ""
+"Nelze vytvořit nový katalog.\n"
+"\n"
+"Připojujete se k databázovému serveru na jiném počítači. Musíte spustit tento program na serveru abyste mohl vytvořit nový katalog."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2180
+msgid "Convert to a new catalog"
+msgstr "Zkonvertuj do nového katalogu"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2188
+#: view)\src/mainframe.cpp:2392
+msgid ""
+"Unable to find the database backup to restore.\n"
+"\n"
+"You can try reinstalling the program to solve this problem."
+msgstr ""
+"Nelze najít zálohu databáze k obnovení.\n"
+"\n"
+"Můžete zkusit přeinstalovat tento program k vyřešení problému"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2351
+msgid "VVV (Virtual Volumes View): a program to catalog removable devices like CDs and DVDs"
+msgstr "VVV (Virtual Volumes View): program ke katalogizaci výměnných médií jako jsou disky CD a DVD"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2352
+msgid "Copyright (C) 2007-2010 The VVV Team"
+msgstr "Copyright (C) 2007-2010 VVV tým"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2353
+msgid "Fulvio Senore: main developer"
+msgstr "Fulvio Senore: hlavní vývojář"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2354
+msgid ""
+"\n"
+"Jan Albartus: worked at the portable version and designed the application's icon"
+msgstr ""
+"\n"
+"Jan Albartus: pracuje na přenositelné verzi a navrhuje ikony aplikace"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2355
+msgid "This program uses icons from the Gnome, Ubuntu and Crystal icons projects"
+msgstr "Tento program používá ikony z Gnome, Ubuntu a Crystal icons projektů"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2356
+msgid "This is open source software, distributed under the GNU GENERAL PUBLIC LICENSE"
+msgstr "Toto je open source software, distribuovaný pod GNU GENERAL PUBLIC LICENCÍ"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2365
+msgid "Serbian"
+msgstr "Srbsky"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2384
+msgid "New catalog"
+msgstr "Nový katalog"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2417
+msgid "Multiple items"
+msgstr "Více položek"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2426
+#: view)\src/mainframe.cpp:2460
+msgid "Object description"
+msgstr "Popis objektu"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2559
+#: view)\src/mainframe.cpp:3156
+msgid "Add To Virtual Folder"
+msgstr "Přidej do Virtuálního adresáře"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2564
+#: view)\src/mainframe.cpp:3159
+msgid "Edit Description..."
+msgstr "Změnit popis..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2567
+msgid "Rename..."
+msgstr "Přejmenovat..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2568
+#: view)\src/mainframe.cpp:2603
+#: view)\src/mainframe.cpp:3152
+msgid "Delete"
+msgstr "Smazat"
+
+# Part of the Volumes menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2569
+msgid "Update Volume..."
+msgstr "&Aktualizuj svazek..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2593
+msgid "New Root Folder"
+msgstr "Nový Kořenový Adresář"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2596
+msgid "New Subfolder"
+msgstr "Nový Podadresář"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2602
+msgid "Rename"
+msgstr "Přejmenovat"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2743
+msgid "Please enter some search data"
+msgstr "Prosím vložte nějaká vyhledávací kriteria"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2762
+msgid "Incorrect file name search data"
+msgstr "Nesprávné jméno souboru ve vyhledávacích kritériích"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2773
+msgid "Incorrect extension search data"
+msgstr "Nesprávná přípona ve vyhledávacích kritériích"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2785
+msgid "Incorrect description search data"
+msgstr "Nesprávný popis ve vyhledávacích kritériích"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2890
+msgid "The search did not find anything"
+msgstr "Nic nebylo nalezeno"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3039
+msgid "Objects: "
+msgstr "Objekty:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3046
+msgid "Total size: "
+msgstr "Celková velikost:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3205
+msgid "Settings"
+msgstr "Nastavení"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3295
+msgid ""
+"This command will delete the selected virtual folder, but it will not change the folders in the physical view.\n"
+"\n"
+"Do you really want to delete the selected virtual folder?"
+msgstr ""
+"Příkaz smaže vybraný virtuální adresář, ale nezmění adresáře ve fyzickém zobrazení.\n"
+"\n"
+"Opravdu chcete smazat vybraný virtuální adresář?"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3320
+msgid ""
+"This command will delete this volume:\n"
+"\n"
+msgstr ""
+"Tento příkaz smaže svazek:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3320
+msgid ""
+"\n"
+"\n"
+"from the VVV catalog. It will not delete any file from your disk.\n"
+"\n"
+"Do you really want to delete this volume?"
+msgstr ""
+"\n"
+"\n"
+"z VVV katalogu. Nesmaže žádný soubor z vašeho disku.\n"
+"\n"
+"Opravdu chcete smazat tento svazek?"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3330
+msgid "Unable to delete this volume: at least one of its files is used in the virtual view"
+msgstr "Nelze smazat tento svazek: nejméně jeden z jeho souborů je použitý ve vituálním zobrazení"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3351
+msgid "Enter the new volume name"
+msgstr "Vložte jméno nového svazku"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3351
+msgid "Rename volume"
+msgstr "Přejmenovat svazek"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3364
+msgid "The new volume name is already present in the database"
+msgstr "Toto jméno nového svazku již v databázi existuje"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3385
+msgid "Rename virtual folder"
+msgstr "Přejmenovat virtuální adresář"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3503
+msgid ""
+"This command will delete the selected virtual files, but it will not change the files in the physical view.\n"
+"\n"
+"Do you really want to delete the selected virtual files?"
+msgstr ""
+"Tento příkaz smaže vybrané virtuální soubory, ale nezmění soubory ve fyzickém zobrazení.\n"
+"\n"
+"Opravdu chcete smazat vybrané virtuální soubory?"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3645
+#: view)\src/mainframe.cpp:3722
+msgid ""
+"Unable to continue. You have choosen an existing file:\n"
+"\n"
+msgstr ""
+"Nemohu pokračovat. Zvolil jste existující soubor:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3645
+#: view)\src/mainframe.cpp:3722
+#: view)\src/mainframe.cpp:3804
+msgid ""
+"\n"
+"\n"
+"You must type the name of a non-existing file."
+msgstr ""
+"\n"
+"\n"
+"Musíte napsat jméno neexistujícího souboru."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3654
+#: view)\src/mainframe.cpp:3731
+#: view)\src/mainframe.cpp:3813
+msgid "Unable to continue: you have choosen a folder where you do not have the right to create a file."
+msgstr "Nelze pokračovat: zvolil jste adresář ve kterém nemáte oprávnění vytvářet soubory."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3699
+#: view)\src/opencatalog.cpp:255
+#: view)\src/restore.cpp:287
+msgid "VVV backup files (*.vvvbk)|*.vvvbk|All files (*.*)|*.*"
+msgstr "VVV soubory zálohy (*.vvvbk)|*.vvvbk|Všechny soubory (*.*)|*.*"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3700
+msgid "Backup catalog"
+msgstr "Zálohovat katalog"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3745
+msgid "Backup completed"
+msgstr "Záloha dokončena"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3768
+msgid ""
+"Unable to restore.\n"
+"\n"
+"You are connecting to a database server on another computer. You must execute this command on the server to be able to restore a catalog."
+msgstr ""
+"Nelze obnovit.\n"
+"\n"
+"Připojujete se k databázovému serveru na jiném počítači. Musíte spustit tento program na serveru abyste byl schopen obnovit katalog."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3782
+msgid "The catalog name is missing"
+msgstr "Chybí jméno katalogu"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3786
+msgid "The backup name is missing"
+msgstr "Chybí jméno zálohy"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3804
+msgid ""
+"Unable to continue. You have choosen an existing catalog:\n"
+"\n"
+msgstr ""
+"Nelze pokračovat. Vybral jste existující katalog:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3841
+msgid "Restore completed"
+msgstr "Obnova dokončena"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3858
+msgid "Update Volume"
+msgstr "Aktualizuj svazek"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/object_description.cpp:145
+msgid "Please enter the description for the following object:"
+msgstr "Prosím vložte popis následujících objektů:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/object_description.cpp:148
+msgid "OBJECT NAME"
+msgstr "JMÉNO OBJEKTU"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/opencatalog.cpp:163
+msgid ""
+"You are about to open a catalog located on the server.\n"
+"\n"
+"Enter the alias or the complete path to the catalog file.\n"
+"Remember that the path must be relative to the server, not to the client."
+msgstr ""
+"Chystáte se otevřít katalog uložený na serveru.\n"
+"\n"
+"Vložte alias nebo kompletní cestu k souboru katalogu.\n"
+"Pamatujte že cesta musí být relativní vzhledem k serveru, ne ke klientovi."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/opencatalog.cpp:257
+#: view)\src/restore.cpp:305
+msgid "VVV files (*.vvv)|*.vvv|All files (*.*)|*.*"
+msgstr "VVV soubory (*.vvv)|*.vvv|Všechny soubory (*.*)|*.*"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/opencatalog.cpp:277
+msgid "Open Catalog"
+msgstr "Otevřít katalog"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/opencatalog.cpp:281
+msgid "New Catalog"
+msgstr "Nový katalog"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/opencatalog.cpp:285
+msgid "Backup"
+msgstr "Zálohovat"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/restore.cpp:154
+msgid ""
+"You are about to create a new catalog from a backup file.\n"
+"\n"
+"Enter the complete path to the backup file and to the catalog file that will be created.\n"
+"You cannot enter the name of an existing catalog."
+msgstr ""
+"Chystáte se vytvořit nový katalog ze souboru zálohy.\n"
+"\n"
+"Vložte kompletní cestu k souboru zálohy a souboru katalogu který bude vytvořen.\n"
+"Nelze vložit jméno existujícího katalogu."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/restore.cpp:159
+msgid "Backup file:"
+msgstr "Soubor zálohy:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/restore.cpp:171
+msgid "New catalog:"
+msgstr "Nový katalog:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/restore.cpp:286
+msgid "Select backup file"
+msgstr "Vyberte soubor zálohy"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/restore.cpp:304
+msgid "Catalog file"
+msgstr "Soubor katalogu"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:179
+msgid "Reopen the last used catalog at startup"
+msgstr "Při spuštění otevřít naposledy použitý katalog."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:185
+msgid "Beep for tasks longer than (seconds):"
+msgstr "Pípnout při úlohách delších než (vteřiny):"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:193
+msgid "Change language"
+msgstr "Změna jazyka"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:196
+msgid "General"
+msgstr "Obecné"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:204
+msgid "Show the following data for MP3 files:"
+msgstr "Zobraz následující data pro MP3 soubory:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:229
+msgid "Track number"
+msgstr "Číslo stopy"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:255
+msgid "MP3"
+msgstr "MP3"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:263
+msgid ""
+"Check the checkbox below if you want to access catalogs stored\n"
+"in a network server. Each computer in the network will be able to\n"
+"access the same catalogs stored in the server.\n"
+"DO NOT check the checkbox if you only want to access catalogs\n"
+"stored in this computer and you do not want to share them\n"
+"with other computers."
+msgstr ""
+"Zaškrtněte pokud chcete mít přístup ke katalogům uložených\n"
+"na síťovém serveru. Každý počítač v síti pak bude moci přistupovat\n"
+"ke stejným katalogům uloženým na serveru.\n"
+"NEZAŠKRTÁVEJTE pokud chcete přistupovat jenom ke katalogům\n"
+"uloženým v tomto počítači a nechcete je sdílet s ostatními \n"
+"počítači."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:268
+msgid "Connect to a network server"
+msgstr "Připojit k síťovému serveru"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:275
+#: view)\src/settings.cpp:298
+msgid "Server"
+msgstr "Server"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:281
+msgid "Username"
+msgstr "Uživatelské jméno"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:287
+msgid "Password"
+msgstr "Heslo"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:295
+msgid "Test server connection"
+msgstr "Zkusit připojení k serveru"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:385
+msgid "You must enter a server name or address"
+msgstr "Musíte vložit jméno serveru nebo jeho adresu"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:389
+msgid "You must enter a username"
+msgstr "Musíte vložit uživatelské jméno"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:393
+msgid "You must enter a password"
+msgstr "Musíte vložit heslo"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:456
+msgid "You must enter the server name or address"
+msgstr "Musíte vložit jméno serveru nebo jeho adresu"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:461
+msgid "Unable to connect to the server"
+msgstr "Nelze se připojit k serveru"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:463
+msgid "Server connection successful"
+msgstr "Připojení k serveru bylo úspěšné"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/update_volume.cpp:180
+msgid "You are about to update the following volume:"
+msgstr "Chystáte se aktualizovat následující svazek:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/update_volume.cpp:183
+msgid "VOLUME NAME"
+msgstr "JMÉNO SVAZKU"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/update_volume.cpp:188
+msgid "Enter or select the path to volume to update"
+msgstr "Vložte nebo vyberte svazek k aktualizaci"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/update_volume.cpp:208
+msgid "Update"
+msgstr "Aktualizovat"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/vvv.cpp:300
+#: view)\src/vvv.cpp:356
+msgid ""
+"Unable to connect to the server\n"
+"\n"
+msgstr ""
+"Nelze se připojit k serveru\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/vvv.cpp:302
+#: view)\src/vvv.cpp:308
+#: view)\src/vvv.cpp:358
+#: view)\src/vvv.cpp:364
+msgid ""
+"An unexpected error has occurred. Here is a description of the error:\n"
+"\n"
+msgstr ""
+"Nastala neočekévaná chyba. Zde je její popis:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/vvv.cpp:314
+#: view)\src/vvv.cpp:370
+msgid "An unexpected error has occurred. This application will be terminated"
+msgstr "Nastala neočekávaná chyba. Tato aplikace bude ukončena."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/vvv.cpp:382
+#: view)\src/vvv.cpp:466
+msgid ""
+"An unexpected error has happened. Here is a description of the error:\n"
+"\n"
+msgstr ""
+"Nastala neočekávaná chyba. Zde je její popis:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/vvv.cpp:408
+msgid "The volume path does not exists"
+msgstr "Cesta ke svazku je neplatná"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/vvv.cpp:449
+msgid "Volume name not found"
+msgstr "Jméno svazku nenalezeno"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.h:71
+msgid "Export data"
+msgstr "Exportovat data"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.h:111
+msgid "VVV"
+msgstr "VVV"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/object_description.h:54
+msgid "Object Description"
+msgstr "Popis Objektu"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/restore.h:46
+msgid "Restore"
+msgstr "Obnovit"
+
+# Please do not translate this sentence
+#~ msgid "Use VVV in English (restart required)"
+#~ msgstr "Use VVV in English (restart required)"
+#, fuzzy
+#~ msgid "Missing volume name"
+#~ msgstr "Získej jméno svazku"
+#~ msgid "Enter the new forder name"
+#~ msgstr "Vložte jméno nového adresáře"
+
