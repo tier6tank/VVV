@@ -1,0 +1,1610 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VVV 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-05 09:35+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fulvio Senore <mailing@fsoft.it>\n"
+"Language-Team: The VVV Team <mailing@fsoft.it>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: E:\\C_Prg\\vvv (virtual volumes view)\\src\n"
+"X-Poedit-Language: Dutch\n"
+"X-Poedit-Country: NETHERLANDS\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: E:\\C_Prg\\vvv (virtual volumes view)\\src\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:174
+msgid "Enter or select the volume to catalog"
+msgstr "Vul de naam in of selecteer het volume om te catalogiseren"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:183
+#: view)\src/exportdata.cpp:223
+#: view)\src/opencatalog.cpp:174
+#: view)\src/restore.cpp:168
+#: view)\src/restore.cpp:180
+#: view)\src/update_volume.cpp:198
+msgid "..."
+msgstr "..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:186
+msgid "Volume name"
+msgstr "Volumenaam"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:196
+msgid "Get volume name"
+msgstr "Volumenaam Ophalen"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:204
+#: view)\src/dlg_file_information.cpp:170
+#: view)\src/exportdata.cpp:230
+#: view)\src/exportdata.cpp:248
+#: view)\src/mainframe.cpp:856
+#: view)\src/restore.cpp:187
+#: view)\src/restore.cpp:205
+#: view)\src/update_volume.cpp:204
+msgid "&Help"
+msgstr "&Help"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:209
+#: view)\src/mainframe.cpp:869
+#: view)\src/mainframe.cpp:4054
+msgid "Catalog"
+msgstr "Catalogiseren"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:212
+#: view)\src/update_volume.cpp:212
+msgid "&Close"
+msgstr "&Sluiten"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:215
+#: view)\src/update_volume.cpp:215
+msgid "Current folder"
+msgstr "Huidige map"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:218
+msgid "Previously cataloged volumes"
+msgstr "Vorige gecatalogiseerde volumes"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:288
+#: view)\src/update_volume.cpp:270
+msgid "The volume path is missing"
+msgstr "Het volumepad ontbreekt"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:293
+msgid "The volume name is missing"
+msgstr "De volumenaam ontbreekt"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:310
+msgid "This volume name is already present in the database"
+msgstr "Deze volumenaam is reeds aanwezig in de database"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:357
+#: view)\src/update_volume.cpp:297
+msgid "Select the volume to catalog"
+msgstr "Selecteer het volume om te catalogiseren"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume_functions.cpp:328
+msgid "Number of added files: "
+msgstr "Aantal toegevoegde bestanden:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume_functions.cpp:329
+msgid "Number of updated files: "
+msgstr "Aantal bijgewerkte bestanden:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume_functions.cpp:330
+msgid "Number of deleted files (not counting those in deleted folders): "
+msgstr "Aantal verwijderde bestanden (die in verwijderde mappen niet meegeteld):"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume_functions.cpp:331
+msgid "Number of deleted folders: "
+msgstr "Aantal verwijderde mappen:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume_functions.cpp:332
+msgid "Number of unchanged files: "
+msgstr "Aantal ongewijzigde bestanden:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume_functions.cpp:333
+msgid "Do you really want to update the volume?"
+msgstr "Wilt u werkelijk het volume bijwerken?"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:77
+#, c-format
+msgid "Unknown locale code '%s' in registry."
+msgstr "Onbekende locale code '%s' in het register."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:94
+msgid "(Use default language)"
+msgstr "(Gebruik standaard taal)"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:96
+#: view)\src/mainframe.cpp:2334
+msgid "Chinese"
+msgstr "Chinees"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:97
+#: view)\src/mainframe.cpp:2344
+msgid "Croatian"
+msgstr "Kroatisch"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:98
+#: view)\src/mainframe.cpp:2340
+msgid "Czech"
+msgstr "Tsjechisch"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:99
+#: view)\src/mainframe.cpp:2349
+msgid "Dutch"
+msgstr "Nederlands"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:100
+msgid "English"
+msgstr "Engels"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:101
+#: view)\src/mainframe.cpp:2337
+msgid "French"
+msgstr "Frans"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:102
+#: view)\src/mainframe.cpp:2338
+msgid "German"
+msgstr "Duits"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:103
+#: view)\src/mainframe.cpp:2339
+#: view)\src/mainframe.cpp:2342
+msgid "Hungarian"
+msgstr "Hongaars"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:104
+#: view)\src/mainframe.cpp:2347
+msgid "Italian"
+msgstr "Italiaans"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:105
+#: view)\src/mainframe.cpp:2346
+msgid "Japanese"
+msgstr "Japans"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:106
+#: view)\src/mainframe.cpp:2341
+msgid "Polish"
+msgstr "Pools"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:107
+#: view)\src/mainframe.cpp:2335
+msgid "Portuguese"
+msgstr "Portugees"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:108
+#: view)\src/mainframe.cpp:2348
+msgid "Romanian"
+msgstr "Roemeens"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:109
+#: view)\src/mainframe.cpp:2343
+msgid "Russian"
+msgstr "Russisch"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:110
+msgid "Serbian (cyrillic)"
+msgstr "Servisch (cyrillisch)"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:111
+msgid "Serbian (latin)"
+msgstr "Servisch (latijns)"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:112
+#: view)\src/mainframe.cpp:2336
+msgid "Spanish"
+msgstr "Spaans"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:113
+#: view)\src/mainframe.cpp:2343
+msgid "Ukrainian"
+msgstr "Oekraïens"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:122
+msgid "Select your preferred language"
+msgstr "Selecteer de taal van uw voorkeur"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:123
+msgid "Language selection"
+msgstr "Geselecteerde Taal"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:137
+msgid "You must restart the program for this change to take effect."
+msgstr "U moet het programma opnieuw starten om de veranderingen door te voeren."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/choose_virtual_folder.cpp:157
+msgid "Please select the virtual folder that will receive the selected files and/or folders:"
+msgstr "Selecteer de virtuele map waar de geselecteerde bestanden en/of mappen neergezet zullen worden:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/choose_virtual_folder.cpp:169
+#: view)\src/choose_virtual_folder.cpp:187
+#: view)\src/dlg_file_information.cpp:164
+#: view)\src/exportdata.cpp:235
+#: view)\src/exportdata.cpp:256
+#: view)\src/object_description.cpp:158
+#: view)\src/object_description.cpp:174
+#: view)\src/opencatalog.cpp:181
+#: view)\src/opencatalog.cpp:197
+#: view)\src/restore.cpp:192
+#: view)\src/restore.cpp:213
+msgid "&OK"
+msgstr "&OK"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/choose_virtual_folder.cpp:173
+#: view)\src/choose_virtual_folder.cpp:184
+#: view)\src/dlg_file_information.cpp:167
+#: view)\src/exportdata.cpp:239
+#: view)\src/exportdata.cpp:253
+#: view)\src/object_description.cpp:162
+#: view)\src/object_description.cpp:171
+#: view)\src/opencatalog.cpp:185
+#: view)\src/opencatalog.cpp:194
+#: view)\src/restore.cpp:196
+#: view)\src/restore.cpp:210
+msgid "&Cancel"
+msgstr "&Annuleren"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/convert_db_unicode.cpp:520
+msgid "Conversion is about to start: a message will tell you when it will be completed."
+msgstr "Het converteren begint zo: u krijgt een bericht wanneer het gereed is."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/convert_db_unicode.cpp:546
+msgid "Conversion completed"
+msgstr "Converteren is gereed"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:155
+msgid "Description:"
+msgstr "Beschrijving:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:255
+#: view)\src/exportdata.cpp:524
+#: view)\src/exportdata.cpp:526
+#: view)\src/mainframe.cpp:1297
+msgid "Name"
+msgstr "Naam"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:259
+msgid "Value"
+msgstr "Waarde"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:302
+#: view)\src/mainframe.cpp:1415
+#: view)\src/settings.cpp:249
+msgid "Channels"
+msgstr "Kanalen"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:304
+#: view)\src/mainframe.cpp:1410
+#: view)\src/settings.cpp:245
+msgid "Sample rate"
+msgstr "samplefrequentie"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:306
+#: view)\src/mainframe.cpp:1405
+#: view)\src/settings.cpp:241
+msgid "Bitrate"
+msgstr "Bitsnelheid"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:307
+#: view)\src/mainframe.cpp:1400
+#: view)\src/settings.cpp:237
+msgid "Length"
+msgstr "Lengte"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:308
+#: view)\src/mainframe.cpp:1395
+#: view)\src/settings.cpp:233
+msgid "Genre"
+msgstr "Genre"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:310
+#: view)\src/mainframe.cpp:1390
+msgid "Number"
+msgstr "Nummer"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:311
+#: view)\src/mainframe.cpp:1385
+#: view)\src/settings.cpp:225
+msgid "Comment"
+msgstr "Commentaar"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:313
+#: view)\src/mainframe.cpp:1380
+#: view)\src/settings.cpp:221
+msgid "Year"
+msgstr "Jaar"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:314
+#: view)\src/mainframe.cpp:1375
+#: view)\src/settings.cpp:217
+msgid "Title"
+msgstr "Titel"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:315
+#: view)\src/mainframe.cpp:1370
+#: view)\src/settings.cpp:213
+msgid "Album"
+msgstr "Album"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:316
+#: view)\src/mainframe.cpp:1365
+#: view)\src/settings.cpp:209
+msgid "Artist"
+msgstr "Artiest"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:321
+msgid "File date"
+msgstr "Bestandsdatum"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:322
+msgid "File size"
+msgstr "Bestandsgrootte"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:322
+msgid "bytes"
+msgstr "bytes"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:323
+#: view)\src/mainframe.cpp:937
+msgid "File name"
+msgstr "Bestandsnaam"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:331
+msgid "Virtual path"
+msgstr "Virtueel pad"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:335
+#: view)\src/mainframe.cpp:1315
+msgid "Physical path"
+msgstr "Fysiek pad"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:191
+msgid "Use this window to export data to a CSV file"
+msgstr "Gebruik dit venster om gegevens naar een CSV bestand te exporteren"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:195
+msgid "Comma"
+msgstr "Komma"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:196
+msgid "TAB"
+msgstr "TAB"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:197
+msgid "Pipe"
+msgstr "Pipe ( | )"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:198
+msgid "Separator"
+msgstr "Scheidingsteken"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:202
+msgid "Include headers"
+msgstr "Inclusief kopteksten"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:207
+#: view)\src/mainframe.cpp:968
+msgid "All physical volumes"
+msgstr "Alle fysieke volumes"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:208
+msgid "Selected physical volume/folder"
+msgstr "Geselecteerd fysiek volume/map"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:209
+#: view)\src/mainframe.cpp:970
+msgid "Selected virtual folder"
+msgstr "Geselecteerde virtuele map"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:210
+msgid "Export"
+msgstr "Exporteren"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:214
+msgid "File name:"
+msgstr "Bestandsnaam:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:309
+msgid "CSV files (*.csv;*.txt)|*.csv;*.txt|All files (*.*)|*.*"
+msgstr "CSV bestanden (*.csv;*.txt)|*.csv;*.txt|Alle bestanden (*.*)|*.*"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:336
+msgid "Please enter a file name"
+msgstr "Vul een bestandsnaam in"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:341
+msgid "The output file already exists: do you want to overwrite it?"
+msgstr "Het outputbestand bestaat reeds: wilt u het overschrijven?"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:344
+#: view)\src/exportdata.cpp:358
+msgid "Unable to create the file."
+msgstr "Kan bestand niet aanmaken."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:524
+#: view)\src/exportdata.cpp:526
+#: view)\src/mainframe.cpp:1302
+msgid "Size"
+msgstr "Grootte"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:524
+#: view)\src/exportdata.cpp:526
+#: view)\src/mainframe.cpp:1306
+msgid "Ext"
+msgstr "Ext"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:524
+#: view)\src/exportdata.cpp:526
+#: view)\src/mainframe.cpp:1310
+msgid "Last modified"
+msgstr "Gewijzigd"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:524
+msgid "PhysicalPath"
+msgstr "Fysiek pad"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:524
+#: view)\src/exportdata.cpp:526
+#: view)\src/mainframe.cpp:958
+#: view)\src/mainframe.cpp:1318
+#: view)\src/mainframe.cpp:1323
+msgid "Description"
+msgstr "Beschrijving"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:526
+msgid "Volume"
+msgstr "Volume"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:526
+msgid "Path"
+msgstr "Pad"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:738
+msgid ""
+"This catalog file does not exist:\n"
+"\n"
+msgstr ""
+"Dit catalogusbestand bestaat niet:\n"
+"\n"
+
+# Part of the File menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:800
+msgid "&New..."
+msgstr "&Nieuw..."
+
+# Part of the File menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:801
+msgid "&Open..."
+msgstr "&Openen..."
+
+# Part of the File menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:802
+msgid "&Export..."
+msgstr "&Exporteren..."
+
+# Part of the File menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:804
+msgid "&Backup..."
+msgstr "&Back-up maken..."
+
+# Part of the File menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:805
+msgid "&Restore..."
+msgstr "Back-up &Terugzetten..."
+
+# Part of the File menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:807
+msgid "E&xit"
+msgstr "&Afsluiten"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:808
+msgid "&File"
+msgstr "&Bestand"
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:810
+msgid "&Add To Virtual Folder..."
+msgstr "&Toevoegen aan virtuele map..."
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:812
+msgid "&Rename...\tF2"
+msgstr "&Naam wijzigen...\tF2"
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:813
+msgid "&Delete"
+msgstr "&Verwijderen"
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:815
+msgid "&Object Information..."
+msgstr "&Objectinformatie..."
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:817
+msgid "&New Virtual Root Folder..."
+msgstr "&Nieuwe Virtuele hoofdmap..."
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:818
+msgid "New Virtual &Subfolder..."
+msgstr "Nieuwe Virtuele submap..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:820
+#: view)\src/mainframe.cpp:846
+msgid "&Options..."
+msgstr "&Opties..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:822
+msgid "&Edit"
+msgstr "Bew&erken"
+
+# Part of the Volumes menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:824
+msgid "&Catalog Volume..."
+msgstr "&Catalogiseer Volume..."
+
+# Part of the Volumes menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:825
+msgid "&Update Volume..."
+msgstr "&Bijwerken Volume..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:826
+msgid "&Volumes"
+msgstr "&Volumes"
+
+# Part of the View menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:828
+msgid "&Physical View"
+msgstr "&Overzicht Fysieke volumes"
+
+# Part of the View menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:830
+msgid "&Virtual View"
+msgstr "&Overzicht Virtuele Mappen"
+
+# Part of the View menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:831
+msgid "&Search View"
+msgstr "&Zoekvenster"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:833
+#: view)\src/mainframe.cpp:3167
+msgid "Show in physical view"
+msgstr "Toon in fysieke mappen"
+
+# Part of the View menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:834
+msgid "Go &Up One Level"
+msgstr "Ga één niveau &Omhoog"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:835
+#: view)\src/mainframe.cpp:2578
+#: view)\src/mainframe.cpp:2615
+msgid "Expand"
+msgstr "Uitklappen"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:836
+#: view)\src/mainframe.cpp:2579
+#: view)\src/mainframe.cpp:2616
+msgid "Collapse"
+msgstr "Inklappen"
+
+# Part of the View menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:838
+msgid "&Toolbar"
+msgstr "&Werkbalk"
+
+# Part of the View menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:840
+msgid "Status &Bar"
+msgstr "&Statusbalk"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:842
+msgid "Vie&w"
+msgstr "Bee&ld"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:848
+msgid "&Tools"
+msgstr "E&xtra"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:851
+msgid "Help &Contents"
+msgstr "In&houdsopgave"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:855
+msgid "&About VVV..."
+msgstr "&Over VVV..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:863
+#: view)\src/mainframe.cpp:4048
+msgid "New"
+msgstr "Nieuw"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:863
+#: view)\src/mainframe.cpp:4048
+msgid "Create a new catalog"
+msgstr "Aanmaken nieuwe catalogus"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:866
+#: view)\src/mainframe.cpp:4051
+msgid "Open"
+msgstr "Openen"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:866
+#: view)\src/mainframe.cpp:4051
+msgid "Open an existing catalog"
+msgstr "Open een bestaande catalogus"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:869
+#: view)\src/mainframe.cpp:4054
+msgid "Catalog a new volume"
+msgstr "Catalogiseer een nieuw volume"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:872
+#: view)\src/mainframe.cpp:4057
+msgid "Up"
+msgstr "Omhoog"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:872
+#: view)\src/mainframe.cpp:4057
+msgid "Move up one level"
+msgstr "Ga één niveau hoger"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:876
+#: view)\src/mainframe.cpp:4061
+msgid "Physical"
+msgstr "Fysiek"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:876
+#: view)\src/mainframe.cpp:4061
+msgid "Show the physical view"
+msgstr "Toon overzicht fysiek mappen"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:879
+#: view)\src/mainframe.cpp:4064
+msgid "Virtual"
+msgstr "Virtueel"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:879
+#: view)\src/mainframe.cpp:4064
+msgid "Show the virtual view"
+msgstr "Toon overzicht virtuele mappen"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:882
+#: view)\src/mainframe.cpp:971
+#: view)\src/mainframe.cpp:977
+#: view)\src/mainframe.cpp:4067
+msgid "Search"
+msgstr "Zoeken"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:882
+#: view)\src/mainframe.cpp:4067
+msgid "Show the search view"
+msgstr "Toon het Zoekvenster"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:934
+#: view)\src/mainframe.cpp:955
+msgid "Is equal to:"
+msgstr "Is gelijk aan:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:935
+#: view)\src/mainframe.cpp:956
+msgid "Starts with:"
+msgstr "Begint met:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:936
+#: view)\src/mainframe.cpp:957
+msgid "Contains:"
+msgstr "Bevat:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:946
+msgid "Extension:"
+msgstr "Extensie:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:969
+msgid "Selected physical folder"
+msgstr "Geselecteerde fysieke map"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1073
+msgid "Catalog volume"
+msgstr "Catalogiseer Volume"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1444
+msgid "Open catalog"
+msgstr "Openen catalogus"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1448
+#: view)\src/mainframe.cpp:3642
+msgid "VVV  files (*.vvv)|*.vvv|All files (*.*)|*.*"
+msgstr "VVV bestanden (*.vvv)|*.vvv|Alle bestanden (*.*)|*.*"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1868
+msgid "Choose virtual folder"
+msgstr "Kies virtuele map"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1954
+msgid "New virtual root folder"
+msgstr "Nieuwe virtuele hoofdmap"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1982
+msgid "New virtual subfolder"
+msgstr "Nieuwe virtuele submap"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2000
+#: view)\src/mainframe.cpp:3400
+msgid "Enter the new folder name"
+msgstr "Vul een nieuwe mapnaam in"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2015
+#: view)\src/mainframe.cpp:3411
+msgid "The new folder name is already present in the database"
+msgstr "De nieuwe mapnaam is al aanwezig in de database"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2068
+msgid "This catalog file does not exist any more"
+msgstr "Dit catalogusbestand bestaat niet meer"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2098
+msgid ""
+"Catalog not found:\n"
+"\n"
+msgstr ""
+"Kan Catalogus niet vinden:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2102
+msgid ""
+"Incorrect username or password for the following database:\n"
+"\n"
+msgstr ""
+"Onjuiste gebruikersnaam of wachtwoord voor de volgende database:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2107
+msgid ""
+"Unable to connect to the following server:\n"
+"\n"
+msgstr ""
+"Niet in staat met de volgende server verbinding te maken:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2109
+msgid ""
+"Unable to open the catalog.\n"
+"Please note that you are not connected to a database server so you cannot open a catalog located on another computer in the network.\n"
+"If you want to open a catalog on another computer you must connect to the database server (Tools/Options menu)."
+msgstr ""
+"Niet in staat de catalogus te openen.\n"
+"U heeft geen verbinding met een database server. U kunt dus geen catalogus openen die op een andere computer in het netwerk staat.\n"
+"Als u een catalogus op een ander computer wilt openen, moet u verbonden zijn met de database server (Extra/Opties menu)."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2131
+msgid ""
+"This catalog has been created with a previous version of the program and it needs to be upgraded, but the file containing the upgrades list is missing.\n"
+"\n"
+"You can try reinstalling the program to solve this problem."
+msgstr ""
+"Deze catalogus is aangemaakt met een vorige versie van het programma en moet geüpdate worden, maar het bestand dat de update bevat ontbreekt.\n"
+"\n"
+"U kunt proberen het programma opnieuw te installeren om dit probleem op te lossen."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2135
+msgid "Upgrading the catalog, please wait..."
+msgstr "De catologus wordt bijgewerkt, even wachten graag..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2147
+msgid ""
+"This catalog has been created with an older version of VVV so you need to convert it to a newer format.\n"
+"\n"
+msgstr ""
+"Deze catalogus is aangemaakt met een oudere versie van VVV. U dient het om te zetten naar een nieuwer formaat.\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2148
+msgid ""
+"The conversion will create a new catalog with the same data as the older one, then you will use this new catalog with VVV. You will not use the older catalog any more.\n"
+"\n"
+msgstr ""
+"De conversie zal een nieuwe catalogus aanmaken met dezelfde gegevens as de oudere. U zult deze nieuwe catalogus gaan gebruiken met VVV. De oude catalogus zal niet meer gebruikt worden.\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2149
+msgid "Do you want to convert the catalog creating a new one?"
+msgstr "Wilt u de catalogus converteren naar een nieuwe versie?"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2153
+#: view)\src/mainframe.cpp:2361
+msgid ""
+"Unable to create a new catalog.\n"
+"\n"
+"You are connecting to a database server on another computer. You must execute this program on the server to be able to create a new catalog."
+msgstr ""
+"Kan geen nieuwe catalogus aanmaken.\n"
+"\n"
+"U bent verbonden met een database op een andere computer. U moet dit programma uitvoeren op de server om een nieuwe catalogus te kunnen aanmaken."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2157
+msgid "Convert to a new catalog"
+msgstr "Converteer naar een nieuwe catalogus"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2165
+#: view)\src/mainframe.cpp:2373
+msgid ""
+"Unable to find the database backup to restore.\n"
+"\n"
+"You can try reinstalling the program to solve this problem."
+msgstr ""
+"Kan het Back-up bestand niet vinden.\n"
+"\n"
+"U kunt proberen het programma opnieuw te installeren om dit probleem op te lossen."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2328
+msgid "VVV (Virtual Volumes View): a program to catalog removable devices like CDs and DVDs"
+msgstr "VVV (Virtual Volumes View): een programma om verwisselbare media zoals CD's and DVD's te catalogiseren"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2329
+msgid "Copyright (C) 2007-2010 The VVV Team"
+msgstr "Auteursrechten © 2007-2010 Het VVV Team"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2330
+msgid "Fulvio Senore: main developer"
+msgstr "Fulvio Senore: hoofdontwikkelaar"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2331
+msgid ""
+"\n"
+"Jan Albartus: worked at the portable version and designed the application's icon"
+msgstr ""
+"\n"
+"Jan Albartus: werkte aan de portable versie en ontwierp het logo van de applicatie"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2332
+msgid "This program uses icons from the Gnome, Ubuntu and Crystal icons projects"
+msgstr "Dit programma gebruikt pictogrammen van de Gnome, Ubuntu en Crystal pictogrammen projecten"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2333
+msgid "This is open source software, distributed under the GNU GENERAL PUBLIC LICENSE"
+msgstr "Dit is open-bron-software, verspreid onder de GNU ALGEMENE PUBLIEKE LICENTIE"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2345
+msgid "Serbian"
+msgstr "Servisch"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2365
+msgid "New catalog"
+msgstr "Nieuwe catalgus"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2415
+msgid "Multiple items"
+msgstr "Meerdere items"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2418
+#: view)\src/mainframe.cpp:2469
+msgid "Object description"
+msgstr "Object beschrijving"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2431
+msgid "File description"
+msgstr "Bestandsbeschrijving"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2576
+#: view)\src/mainframe.cpp:3173
+msgid "Add To Virtual Folder"
+msgstr "Toevoegen aan Virtuele Map"
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2581
+msgid "Object information..."
+msgstr "&Objectinfromatie..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2584
+msgid "Rename..."
+msgstr "Naam wijzigen..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2585
+#: view)\src/mainframe.cpp:2620
+#: view)\src/mainframe.cpp:3169
+msgid "Delete"
+msgstr "Verwijderen..."
+
+# Part of the Volumes menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2586
+msgid "Update Volume..."
+msgstr "Bijwerken Volume..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2610
+msgid "New Root Folder"
+msgstr "Nieuwe hoofdmap"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2613
+msgid "New Subfolder"
+msgstr "Nieuwe submap"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2619
+msgid "Rename"
+msgstr "Naam wijzigen"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2760
+msgid "Please enter some search data"
+msgstr "Vul wat zoekgegevens in"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2779
+msgid "Incorrect file name search data"
+msgstr "Onjuiste bestandnaam in zoekgegevens"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2790
+msgid "Incorrect extension search data"
+msgstr "Onjuiste extensie in zoekgegevens"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2802
+msgid "Incorrect description search data"
+msgstr "Onjuiste omschrijving in zoekgegevens"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2907
+msgid "The search did not find anything"
+msgstr "Het zoeken leverde niet op"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3056
+msgid "Objects: "
+msgstr "Objecten:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3063
+msgid "Total size: "
+msgstr "Totale grootte:"
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3176
+msgid "Object Information..."
+msgstr "&Objectinformatie..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3220
+msgid "Settings"
+msgstr "Instellingen"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3310
+msgid ""
+"This command will delete the selected virtual folder, but it will not change the folders in the physical view.\n"
+"\n"
+"Do you really want to delete the selected virtual folder?"
+msgstr ""
+"dit commando zal de geselecteerde virtuele map verwijderen. Het zal de mappen in het fysieke overzicht nier veranderen.\n"
+"\n"
+"Wilt u werkelijk de geselecteerde virtuele map verwijderen?"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3335
+msgid ""
+"This command will delete this volume:\n"
+"\n"
+msgstr ""
+"Dit commando verwijdert dit volume:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3335
+msgid ""
+"\n"
+"\n"
+"from the VVV catalog. It will not delete any file from your disk.\n"
+"\n"
+"Do you really want to delete this volume?"
+msgstr ""
+"\n"
+"\n"
+"uit de  VVV catalogus. Het zal geen bestanden van uw schijf verwijderen.\n"
+"\n"
+"Wilt u werkelijk dit volume verwijderen?"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3345
+msgid "Unable to delete this volume: at least one of its files is used in the virtual view"
+msgstr "Kan het volume niet verwijderen: er is tenminste één bestand in gebruik bij het virtuele overzicht "
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3366
+msgid "Enter the new volume name"
+msgstr "Geef een nieuwe volumenaam"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3366
+msgid "Rename volume"
+msgstr "Wijzig volumenaam"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3379
+msgid "The new volume name is already present in the database"
+msgstr "Het nieuwe volume is reeds aanwezig in deze database"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3400
+msgid "Rename virtual folder"
+msgstr "wijzig virtuele mapnaam"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3523
+msgid ""
+"This command will delete the selected files from the virtual view, but it will not change the files in the physical view.\n"
+"\n"
+"Do you really want to delete the selected virtual files?"
+msgstr ""
+"Dit commando zal de geselecteerde bestanden uit het virtuele overzicht verwijderen, maar zal de bestanden in het fysieke overzicht niet veranderen.\n"
+"\n"
+"Wilt u werkelijk de geselecteerde virtuele bestanden verwijderen?"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3665
+#: view)\src/mainframe.cpp:3742
+msgid ""
+"Unable to continue. You have choosen an existing file:\n"
+"\n"
+msgstr ""
+"Kan niet verder gaan. U heeft een bestaand bestand gekozen:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3665
+#: view)\src/mainframe.cpp:3742
+#: view)\src/mainframe.cpp:3824
+msgid ""
+"\n"
+"\n"
+"You must type the name of a non-existing file."
+msgstr ""
+"\n"
+"\n"
+"U moet de naam van een niet bestaand bestand intikken."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3674
+#: view)\src/mainframe.cpp:3751
+#: view)\src/mainframe.cpp:3833
+msgid "Unable to continue: you have choosen a folder where you do not have the right to create a file."
+msgstr "Kan niet verder: u heeft een map gekozen waar u geen rechten heeft om een bestand in aan te maken."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3719
+#: view)\src/opencatalog.cpp:255
+#: view)\src/restore.cpp:287
+msgid "VVV backup files (*.vvvbk)|*.vvvbk|All files (*.*)|*.*"
+msgstr "VVV back-up bestanden (*.vvvbk)|*.vvvbk|Alle bestanden (*.*)|*.*"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3720
+msgid "Backup catalog"
+msgstr "Back-up catalogus"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3765
+msgid "Backup completed"
+msgstr "Back-up maken voltooid"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3788
+msgid ""
+"Unable to restore.\n"
+"\n"
+"You are connecting to a database server on another computer. You must execute this command on the server to be able to restore a catalog."
+msgstr ""
+"Kan back-up niet terugzetten.\n"
+"\n"
+"U bent met een database server op een andere computer verbonden. U moet deze opdracht uitvoeren op de server om een back-up van een catalogus terug te zetten."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3802
+msgid "The catalog name is missing"
+msgstr "De catalogus ontbreekt"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3806
+msgid "The backup name is missing"
+msgstr "De Back-up ontbreekt"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3824
+msgid ""
+"Unable to continue. You have choosen an existing catalog:\n"
+"\n"
+msgstr ""
+"Kan nier verder. U heeft een bestaande catalogus gekozen:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3861
+msgid "Restore completed"
+msgstr "Terugzetten back-up voltooid"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3878
+msgid "Update Volume"
+msgstr "Bijwerken Volume"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/object_description.cpp:145
+msgid "Please enter the description for the following object:"
+msgstr "Vul de beschrijving voor het volgende object in:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/object_description.cpp:148
+msgid "OBJECT NAME"
+msgstr "OBJECT NAAM"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/opencatalog.cpp:163
+msgid ""
+"You are about to open a catalog located on the server.\n"
+"\n"
+"Enter the alias or the complete path to the catalog file.\n"
+"Remember that the path must be relative to the server, not to the client."
+msgstr ""
+"U staat op het punt een catalogus op de server te openen.\n"
+"\n"
+"Geef de Alias of  de volledige padnaam van het catalogusbestand.\n"
+"Vergeet niet dat het pad relatief moet zijn tot de server, en niet tot de cliënt."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/opencatalog.cpp:257
+#: view)\src/restore.cpp:305
+msgid "VVV files (*.vvv)|*.vvv|All files (*.*)|*.*"
+msgstr "VVV bestanden (*.vvv)|*.vvv|Alle bestanden (*.*)|*.*"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/opencatalog.cpp:277
+msgid "Open Catalog"
+msgstr "Openen Catalogus"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/opencatalog.cpp:281
+msgid "New Catalog"
+msgstr "Nieuwe Catalogus"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/opencatalog.cpp:285
+msgid "Backup"
+msgstr "Back-up"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/restore.cpp:154
+msgid ""
+"You are about to create a new catalog from a backup file.\n"
+"\n"
+"Enter the complete path to the backup file and to the catalog file that will be created.\n"
+"You cannot enter the name of an existing catalog."
+msgstr ""
+"U staat op het punt een nieuwe catalogus aan te maken vanuit een back-up bestand.\n"
+"\n"
+"Geef het volledig pad naar het back-up bestand en naar het catalogusbestand dat aangemaakt moet worden.\n"
+"U kunt geen naam van een bestaande catalogus gebruiken."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/restore.cpp:159
+msgid "Backup file:"
+msgstr "Back-up bestand:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/restore.cpp:171
+msgid "New catalog:"
+msgstr "Nieuwe catalogus:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/restore.cpp:286
+msgid "Select backup file"
+msgstr "Selecteer back-up bestand"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/restore.cpp:304
+msgid "Catalog file"
+msgstr "catalogus bestand"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:179
+msgid "Reopen the last used catalog at startup"
+msgstr "Heropen de laatst gebruikte catalogus bij opstarten"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:185
+msgid "Beep for tasks longer than (seconds):"
+msgstr "Pieptoon voor taken langer dan (sec):"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:193
+msgid "Change language"
+msgstr "Verander de taal"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:196
+msgid "General"
+msgstr "Algemeen"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:204
+msgid "Show the following data for audio files:"
+msgstr "Toon de volgende gegevens voor audiobestanden:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:229
+msgid "Track number"
+msgstr "track nummer"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:255
+msgid "Audio files"
+msgstr "Audio bestanden"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:263
+msgid ""
+"Check the checkbox below if you want to access catalogs stored\n"
+"in a network server. Each computer in the network will be able to\n"
+"access the same catalogs stored in the server.\n"
+"DO NOT check the checkbox if you only want to access catalogs\n"
+"stored in this computer and you do not want to share them\n"
+"with other computers."
+msgstr ""
+"Vink het selectievakje hieronder aan indien u toegang wilt hebben\n"
+"tot catalogusbestanden op een netwerk server. Alle computers\n"
+"in het netwerk zullen toegang krijgen tot dezelfde catalogusbestanden\n"
+"op de server.\n"
+"Vink het selectievakje NIET aan indien u slechts toegang wilt hebben\n"
+"tot catalogusbestanden op deze computer en u die niet wilt delen\n"
+"met andere computers."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:268
+msgid "Connect to a network server"
+msgstr "Verbinden met netwerk server"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:275
+#: view)\src/settings.cpp:298
+msgid "Server"
+msgstr "Server"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:281
+msgid "Username"
+msgstr "Gebruikersnaam"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:287
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:295
+msgid "Test server connection"
+msgstr "Testen server verbinding"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:385
+msgid "You must enter a server name or address"
+msgstr "U moet een servernaam of -adres invullen"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:389
+msgid "You must enter a username"
+msgstr "U moet een gebruikersnaam invullen"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:393
+msgid "You must enter a password"
+msgstr "U moet een wachtwoord invullen"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:456
+msgid "You must enter the server name or address"
+msgstr "U moet de naam of het adres van de server invullen"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:461
+msgid "Unable to connect to the server"
+msgstr "Kan geen verbinden krijgen met server"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:463
+msgid "Server connection successful"
+msgstr "Verbinding met server geslaagd"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/update_volume.cpp:184
+msgid "VOLUME NAME"
+msgstr "VOLUME NAAM"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/update_volume.cpp:189
+msgid "Enter or select the path to volume to update"
+msgstr "Vul de naam in of selecteer het pad naar het bij te werken  volume"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/update_volume.cpp:209
+msgid "Update"
+msgstr "Bijwerken"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/vvv.cpp:300
+#: view)\src/vvv.cpp:356
+msgid ""
+"Unable to connect to the server\n"
+"\n"
+msgstr ""
+"Kan geen verbinden krijgen met server\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/vvv.cpp:302
+#: view)\src/vvv.cpp:308
+#: view)\src/vvv.cpp:358
+#: view)\src/vvv.cpp:364
+msgid ""
+"An unexpected error has occurred. Here is a description of the error:\n"
+"\n"
+msgstr ""
+"Er is een onverwachte fout opgetreden. Hier is een beschrijving van de fout:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/vvv.cpp:314
+#: view)\src/vvv.cpp:370
+msgid "An unexpected error has occurred. This application will be terminated"
+msgstr "Er is een onverwachte fout opgetreden. Deze applicatie zal worden afgesloten"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/vvv.cpp:382
+#: view)\src/vvv.cpp:466
+msgid ""
+"An unexpected error has happened. Here is a description of the error:\n"
+"\n"
+msgstr ""
+"Er is een onverwachte fout opgetreden. Hier is een beschrijving van de fout:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/vvv.cpp:408
+msgid "The volume path does not exists"
+msgstr "Het volumepad bestaat niet"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/vvv.cpp:449
+msgid "Volume name not found"
+msgstr "Volumenaam niet gevonden"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.h:47
+msgid "File information"
+msgstr "Bestandsinformatie"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.h:71
+msgid "Export data"
+msgstr "Exporteren gegevens"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.h:112
+msgid "VVV"
+msgstr "VVV"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/object_description.h:54
+msgid "Object Description"
+msgstr "Object Beschrijving"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/restore.h:46
+msgid "Restore"
+msgstr "Back-up Terugzetten"
+
+#~ msgid "Edit Description..."
+#~ msgstr "Bewerk Beschrijving..."
+#~ msgid "MP3"
+#~ msgstr "MP3"
+#~ msgid "You are about to update the following volume:"
+#~ msgstr "U staat op het punt het volgende volume bij te werken:"
+
+# Please do not translate this sentence
+# As you suggested a second line added with the translated text conform your layout.
+# The \n
+# eems not to work in this window.???
+#~ msgid "Use VVV in English (restart required)"
+#~ msgstr ""
+#~ "Gebruik VVV in het Engels (herstart noodzakelijk)\n"
+#~ "Use VVV in English (restart required)"
+#, fuzzy
+#~ msgid "Missing volume name"
+#~ msgstr "Volumenaam Ophalen"
+

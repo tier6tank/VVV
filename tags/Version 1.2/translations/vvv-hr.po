@@ -1,0 +1,1602 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: VVV 0.9\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2011-12-05 09:35+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Fulvio Senore <mailing@fsoft.it>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: E:\\C_Prg\\vvv (virtual volumes view)\\src\n"
+"X-Poedit-Language: Croatian\n"
+"X-Poedit-Country: CROATIA\n"
+"X-Poedit-SearchPath-0: E:\\C_Prg\\vvv (virtual volumes view)\\src\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:174
+msgid "Enter or select the volume to catalog"
+msgstr "Unesite ili odaberite mapu ili disk za katalogiziranje"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:183
+#: view)\src/exportdata.cpp:223
+#: view)\src/opencatalog.cpp:174
+#: view)\src/restore.cpp:168
+#: view)\src/restore.cpp:180
+#: view)\src/update_volume.cpp:198
+msgid "..."
+msgstr "..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:186
+msgid "Volume name"
+msgstr "Naziv kataloga"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:196
+msgid "Get volume name"
+msgstr "Određivanje naziva kataloga"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:204
+#: view)\src/dlg_file_information.cpp:170
+#: view)\src/exportdata.cpp:230
+#: view)\src/exportdata.cpp:248
+#: view)\src/mainframe.cpp:856
+#: view)\src/restore.cpp:187
+#: view)\src/restore.cpp:205
+#: view)\src/update_volume.cpp:204
+msgid "&Help"
+msgstr "&Pomoć"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:209
+#: view)\src/mainframe.cpp:869
+#: view)\src/mainframe.cpp:4054
+msgid "Catalog"
+msgstr "Stvori katalog"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:212
+#: view)\src/update_volume.cpp:212
+msgid "&Close"
+msgstr "&Izlaz"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:215
+#: view)\src/update_volume.cpp:215
+msgid "Current folder"
+msgstr "Trenutna mapa"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:218
+msgid "Previously cataloged volumes"
+msgstr "Stvoreni katalog"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:288
+#: view)\src/update_volume.cpp:270
+msgid "The volume path is missing"
+msgstr "Nedostaje staza do kataloga"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:293
+msgid "The volume name is missing"
+msgstr "Nedostaje  naziv kataloga"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:310
+msgid "This volume name is already present in the database"
+msgstr "Naziv kataloga se već nalazi u bazi"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume.cpp:357
+#: view)\src/update_volume.cpp:297
+msgid "Select the volume to catalog"
+msgstr "Odabir sadržaja kataloga"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume_functions.cpp:328
+msgid "Number of added files: "
+msgstr "Broj dodanih datoteka:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume_functions.cpp:329
+msgid "Number of updated files: "
+msgstr "Broj obnovljenih datoteka:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume_functions.cpp:330
+msgid "Number of deleted files (not counting those in deleted folders): "
+msgstr "Broj obrisanih datoteka. Datoteke obrisane u mapama nisu ubrojene."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume_functions.cpp:331
+msgid "Number of deleted folders: "
+msgstr "Broj obrisanih mapa."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume_functions.cpp:332
+msgid "Number of unchanged files: "
+msgstr "Broj neizmijenjenih datoteka."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/catalog_volume_functions.cpp:333
+msgid "Do you really want to update the volume?"
+msgstr "Broj obrisanih datoteka?"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:77
+#, c-format
+msgid "Unknown locale code '%s' in registry."
+msgstr "Nepoznat lokalni kod '%s' u registru."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:94
+msgid "(Use default language)"
+msgstr "Koristi izvorni jezik"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:96
+#: view)\src/mainframe.cpp:2334
+msgid "Chinese"
+msgstr "Kineski"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:97
+#: view)\src/mainframe.cpp:2344
+msgid "Croatian"
+msgstr "Hrvatski"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:98
+#: view)\src/mainframe.cpp:2340
+msgid "Czech"
+msgstr "Češki"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:99
+#: view)\src/mainframe.cpp:2349
+msgid "Dutch"
+msgstr "Danski"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:100
+msgid "English"
+msgstr "Engleski"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:101
+#: view)\src/mainframe.cpp:2337
+msgid "French"
+msgstr "Francuski"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:102
+#: view)\src/mainframe.cpp:2338
+msgid "German"
+msgstr "Njemački"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:103
+#: view)\src/mainframe.cpp:2339
+#: view)\src/mainframe.cpp:2342
+msgid "Hungarian"
+msgstr "Mađarski"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:104
+#: view)\src/mainframe.cpp:2347
+msgid "Italian"
+msgstr "Talijanski"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:105
+#: view)\src/mainframe.cpp:2346
+msgid "Japanese"
+msgstr "Japanski"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:106
+#: view)\src/mainframe.cpp:2341
+msgid "Polish"
+msgstr "Poljski"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:107
+#: view)\src/mainframe.cpp:2335
+msgid "Portuguese"
+msgstr "Potrugalski"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:108
+#: view)\src/mainframe.cpp:2348
+msgid "Romanian"
+msgstr "Rumunjski"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:109
+#: view)\src/mainframe.cpp:2343
+msgid "Russian"
+msgstr "Ruski"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:110
+msgid "Serbian (cyrillic)"
+msgstr "Srpski (čirilica)"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:111
+msgid "Serbian (latin)"
+msgstr "Srpski (latinica)"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:112
+#: view)\src/mainframe.cpp:2336
+msgid "Spanish"
+msgstr "Španjolski"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:113
+#: view)\src/mainframe.cpp:2343
+msgid "Ukrainian"
+msgstr "Ukrainski"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:122
+msgid "Select your preferred language"
+msgstr "Vaš odabir jezika"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:123
+msgid "Language selection"
+msgstr "Odabir jezika"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/chooselang.cpp:137
+msgid "You must restart the program for this change to take effect."
+msgstr "Ove promjene nastupit će nakon ponovnog pokretanja programa."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/choose_virtual_folder.cpp:157
+msgid "Please select the virtual folder that will receive the selected files and/or folders:"
+msgstr "Odaberite vitrualnu mapu u koju idu odabrane datoteke i mape"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/choose_virtual_folder.cpp:169
+#: view)\src/choose_virtual_folder.cpp:187
+#: view)\src/dlg_file_information.cpp:164
+#: view)\src/exportdata.cpp:235
+#: view)\src/exportdata.cpp:256
+#: view)\src/object_description.cpp:158
+#: view)\src/object_description.cpp:174
+#: view)\src/opencatalog.cpp:181
+#: view)\src/opencatalog.cpp:197
+#: view)\src/restore.cpp:192
+#: view)\src/restore.cpp:213
+msgid "&OK"
+msgstr "&U redu"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/choose_virtual_folder.cpp:173
+#: view)\src/choose_virtual_folder.cpp:184
+#: view)\src/dlg_file_information.cpp:167
+#: view)\src/exportdata.cpp:239
+#: view)\src/exportdata.cpp:253
+#: view)\src/object_description.cpp:162
+#: view)\src/object_description.cpp:171
+#: view)\src/opencatalog.cpp:185
+#: view)\src/opencatalog.cpp:194
+#: view)\src/restore.cpp:196
+#: view)\src/restore.cpp:210
+msgid "&Cancel"
+msgstr "&Odustajem"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/convert_db_unicode.cpp:520
+msgid "Conversion is about to start: a message will tell you when it will be completed."
+msgstr "Proces počinje. Obavijestit ću vas kad završim."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/convert_db_unicode.cpp:546
+msgid "Conversion completed"
+msgstr "Proces katalogiziranja je završen"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:155
+msgid "Description:"
+msgstr "Opis"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:255
+#: view)\src/exportdata.cpp:524
+#: view)\src/exportdata.cpp:526
+#: view)\src/mainframe.cpp:1297
+msgid "Name"
+msgstr "Naziv"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:259
+msgid "Value"
+msgstr "Vrijednost"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:302
+#: view)\src/mainframe.cpp:1415
+#: view)\src/settings.cpp:249
+msgid "Channels"
+msgstr "Kanali"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:304
+#: view)\src/mainframe.cpp:1410
+#: view)\src/settings.cpp:245
+msgid "Sample rate"
+msgstr "Uzorkovanje"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:306
+#: view)\src/mainframe.cpp:1405
+#: view)\src/settings.cpp:241
+msgid "Bitrate"
+msgstr "Bitova"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:307
+#: view)\src/mainframe.cpp:1400
+#: view)\src/settings.cpp:237
+msgid "Length"
+msgstr "Duljina"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:308
+#: view)\src/mainframe.cpp:1395
+#: view)\src/settings.cpp:233
+msgid "Genre"
+msgstr "Žanr"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:310
+#: view)\src/mainframe.cpp:1390
+msgid "Number"
+msgstr "Broj"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:311
+#: view)\src/mainframe.cpp:1385
+#: view)\src/settings.cpp:225
+msgid "Comment"
+msgstr "Komentar"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:313
+#: view)\src/mainframe.cpp:1380
+#: view)\src/settings.cpp:221
+msgid "Year"
+msgstr "Godina"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:314
+#: view)\src/mainframe.cpp:1375
+#: view)\src/settings.cpp:217
+msgid "Title"
+msgstr "Naslov"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:315
+#: view)\src/mainframe.cpp:1370
+#: view)\src/settings.cpp:213
+msgid "Album"
+msgstr "Album"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:316
+#: view)\src/mainframe.cpp:1365
+#: view)\src/settings.cpp:209
+msgid "Artist"
+msgstr "Izvođač"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:321
+msgid "File date"
+msgstr "Datum datoteke"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:322
+msgid "File size"
+msgstr "Veličina datoteke"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:322
+msgid "bytes"
+msgstr "bajta"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:323
+#: view)\src/mainframe.cpp:937
+msgid "File name"
+msgstr "Naziv datoteke"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:331
+msgid "Virtual path"
+msgstr "Virtualna staza"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.cpp:335
+#: view)\src/mainframe.cpp:1315
+msgid "Physical path"
+msgstr "Stvarna staza"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:191
+msgid "Use this window to export data to a CSV file"
+msgstr "Izvoz podataka u CSV datoteku"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:195
+msgid "Comma"
+msgstr "Zarez"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:196
+msgid "TAB"
+msgstr "Tabulator"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:197
+msgid "Pipe"
+msgstr "| znak"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:198
+msgid "Separator"
+msgstr "Odvajač"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:202
+msgid "Include headers"
+msgstr "Uključi zaglavlja"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:207
+#: view)\src/mainframe.cpp:968
+msgid "All physical volumes"
+msgstr "Sve stvarne kataloge"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:208
+msgid "Selected physical volume/folder"
+msgstr "Odabir stvarnog kataloga ili mape"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:209
+#: view)\src/mainframe.cpp:970
+msgid "Selected virtual folder"
+msgstr "Odabir virtualne mape"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:210
+msgid "Export"
+msgstr "Izvoz"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:214
+msgid "File name:"
+msgstr "Naziv datoteke:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:309
+msgid "CSV files (*.csv;*.txt)|*.csv;*.txt|All files (*.*)|*.*"
+msgstr "CSV datoteke (*.csv;*.txt)|*.csv;*.txt|Sve datoteke  (*.*)|*.*"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:336
+msgid "Please enter a file name"
+msgstr "Unesite naziv datoteke "
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:341
+msgid "The output file already exists: do you want to overwrite it?"
+msgstr "Datoteka već postoji. Natpisati?"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:344
+#: view)\src/exportdata.cpp:358
+msgid "Unable to create the file."
+msgstr "Ne mogu stvoriti datoteku"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:524
+#: view)\src/exportdata.cpp:526
+#: view)\src/mainframe.cpp:1302
+msgid "Size"
+msgstr "Veličina"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:524
+#: view)\src/exportdata.cpp:526
+#: view)\src/mainframe.cpp:1306
+msgid "Ext"
+msgstr "Izlaz"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:524
+#: view)\src/exportdata.cpp:526
+#: view)\src/mainframe.cpp:1310
+msgid "Last modified"
+msgstr "Zadnja promjena"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:524
+msgid "PhysicalPath"
+msgstr "Stvarna staza"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:524
+#: view)\src/exportdata.cpp:526
+#: view)\src/mainframe.cpp:958
+#: view)\src/mainframe.cpp:1318
+#: view)\src/mainframe.cpp:1323
+msgid "Description"
+msgstr "Opis"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:526
+msgid "Volume"
+msgstr "Disk"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.cpp:526
+msgid "Path"
+msgstr "Staza"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:738
+msgid ""
+"This catalog file does not exist:\n"
+"\n"
+msgstr ""
+"Ne postoji katalog:\n"
+"\n"
+
+# Part of the File menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:800
+msgid "&New..."
+msgstr "&Novi..."
+
+# Part of the File menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:801
+msgid "&Open..."
+msgstr "&Otvori..."
+
+# Part of the File menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:802
+msgid "&Export..."
+msgstr "&Izvoz..."
+
+# Part of the File menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:804
+msgid "&Backup..."
+msgstr "&Rezervna kopija..."
+
+# Part of the File menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:805
+msgid "&Restore..."
+msgstr "&Restauriraj..."
+
+# Part of the File menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:807
+msgid "E&xit"
+msgstr "I&zlaz"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:808
+msgid "&File"
+msgstr "&Katalozi"
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:810
+msgid "&Add To Virtual Folder..."
+msgstr "&Dodaj u virtualnu mapu..."
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:812
+msgid "&Rename...\tF2"
+msgstr "&Preimenovanje...\tF2"
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:813
+msgid "&Delete"
+msgstr "&Obriši"
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:815
+msgid "&Object Information..."
+msgstr "&Opis..."
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:817
+msgid "&New Virtual Root Folder..."
+msgstr "&Nova virtualna nadmapa..."
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:818
+msgid "New Virtual &Subfolder..."
+msgstr "Nova virtualna pod&mapa..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:820
+#: view)\src/mainframe.cpp:846
+msgid "&Options..."
+msgstr "&Mogućnosti..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:822
+msgid "&Edit"
+msgstr "&Uređivanje"
+
+# Part of the Volumes menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:824
+msgid "&Catalog Volume..."
+msgstr "&Izrada kataloga..."
+
+# Part of the Volumes menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:825
+msgid "&Update Volume..."
+msgstr "&Obnavljanje kataloga..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:826
+msgid "&Volumes"
+msgstr "&Katalogizacija"
+
+# Part of the View menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:828
+msgid "&Physical View"
+msgstr "&Stvarni katalozi"
+
+# Part of the View menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:830
+msgid "&Virtual View"
+msgstr "&Virtualni katalozi"
+
+# Part of the View menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:831
+msgid "&Search View"
+msgstr "&Pretraživane"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:833
+#: view)\src/mainframe.cpp:3167
+msgid "Show in physical view"
+msgstr "Prikaz stvarnog kataloga"
+
+# Part of the View menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:834
+msgid "Go &Up One Level"
+msgstr "&Nadmapa"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:835
+#: view)\src/mainframe.cpp:2578
+#: view)\src/mainframe.cpp:2615
+msgid "Expand"
+msgstr "Proširi"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:836
+#: view)\src/mainframe.cpp:2579
+#: view)\src/mainframe.cpp:2616
+msgid "Collapse"
+msgstr "Skupi"
+
+# Part of the View menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:838
+msgid "&Toolbar"
+msgstr "&Traka alata"
+
+# Part of the View menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:840
+msgid "Status &Bar"
+msgstr "Traka &statusa"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:842
+msgid "Vie&w"
+msgstr "&Izgled"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:848
+msgid "&Tools"
+msgstr "&Alati"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:851
+msgid "Help &Contents"
+msgstr "&Sadržaj"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:855
+msgid "&About VVV..."
+msgstr "&O programu..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:863
+#: view)\src/mainframe.cpp:4048
+msgid "New"
+msgstr "Novi"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:863
+#: view)\src/mainframe.cpp:4048
+msgid "Create a new catalog"
+msgstr "Stvaranje novog kataloga"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:866
+#: view)\src/mainframe.cpp:4051
+msgid "Open"
+msgstr "Otvori"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:866
+#: view)\src/mainframe.cpp:4051
+msgid "Open an existing catalog"
+msgstr "Otvori postojeći katalog"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:869
+#: view)\src/mainframe.cpp:4054
+msgid "Catalog a new volume"
+msgstr "Katalog novog sadržaja"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:872
+#: view)\src/mainframe.cpp:4057
+msgid "Up"
+msgstr "Gore"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:872
+#: view)\src/mainframe.cpp:4057
+msgid "Move up one level"
+msgstr "Otvori nadmapu"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:876
+#: view)\src/mainframe.cpp:4061
+msgid "Physical"
+msgstr "Postojeći"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:876
+#: view)\src/mainframe.cpp:4061
+msgid "Show the physical view"
+msgstr "Prikaz stvarnih kataloga"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:879
+#: view)\src/mainframe.cpp:4064
+msgid "Virtual"
+msgstr "Virtualni"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:879
+#: view)\src/mainframe.cpp:4064
+msgid "Show the virtual view"
+msgstr "Prikaz virtualnnih kataloga"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:882
+#: view)\src/mainframe.cpp:971
+#: view)\src/mainframe.cpp:977
+#: view)\src/mainframe.cpp:4067
+msgid "Search"
+msgstr "Nađi"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:882
+#: view)\src/mainframe.cpp:4067
+msgid "Show the search view"
+msgstr "Prikaz okna potrage"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:934
+#: view)\src/mainframe.cpp:955
+msgid "Is equal to:"
+msgstr "Točan naziv:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:935
+#: view)\src/mainframe.cpp:956
+msgid "Starts with:"
+msgstr "Počinjei s:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:936
+#: view)\src/mainframe.cpp:957
+msgid "Contains:"
+msgstr "Sadrži:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:946
+msgid "Extension:"
+msgstr "Tipovi:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:969
+msgid "Selected physical folder"
+msgstr "Odabir stvarne mape"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1073
+msgid "Catalog volume"
+msgstr "Katalogizacija sadržaja"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1444
+msgid "Open catalog"
+msgstr "Otvori katalog"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1448
+#: view)\src/mainframe.cpp:3642
+msgid "VVV  files (*.vvv)|*.vvv|All files (*.*)|*.*"
+msgstr "VVV datoteke (*.vvv)|*.vvv|Sve datoteke (*.*)|*.*"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1868
+msgid "Choose virtual folder"
+msgstr "Odaberite virtualnu mapu"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1954
+msgid "New virtual root folder"
+msgstr "Nova virtualna nadmapa"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:1982
+msgid "New virtual subfolder"
+msgstr "Nova virtualna podmapa"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2000
+#: view)\src/mainframe.cpp:3400
+msgid "Enter the new folder name"
+msgstr "Unesite naziv nove mape"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2015
+#: view)\src/mainframe.cpp:3411
+msgid "The new folder name is already present in the database"
+msgstr "Ovaj naziv već postoji u bazi podataka"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2068
+msgid "This catalog file does not exist any more"
+msgstr "Ovog kataloga nigdje nema"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2098
+msgid ""
+"Catalog not found:\n"
+"\n"
+msgstr ""
+"Katalog nije nađen:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2102
+msgid ""
+"Incorrect username or password for the following database:\n"
+"\n"
+msgstr ""
+"Krivo ime korisnika ili lozinka zaovu bazu podataka:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2107
+msgid ""
+"Unable to connect to the following server:\n"
+"\n"
+msgstr ""
+"Ne mogu uspostaviti vezu s poslužiteljom:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2109
+msgid ""
+"Unable to open the catalog.\n"
+"Please note that you are not connected to a database server so you cannot open a catalog located on another computer in the network.\n"
+"If you want to open a catalog on another computer you must connect to the database server (Tools/Options menu)."
+msgstr ""
+"Ne mogu otvoriti katalog.\n"
+"Niste povezani s bazom podataka poslužitelja pa ne možete otvoriti katalog koji se nalazi na drugom računalu ili mreži.\n"
+"Ako želite otvoriti katalog koji se nalazi na drugom računalu ili mreži morate se prethodno spojiti na bazu podataka poslužitelja (Alati/Mogućnosti)."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2131
+msgid ""
+"This catalog has been created with a previous version of the program and it needs to be upgraded, but the file containing the upgrades list is missing.\n"
+"\n"
+"You can try reinstalling the program to solve this problem."
+msgstr ""
+"Ovaj katalog je stvoren pomoću ranije verzije programa. Nedostaje datoteka popisa za nadogradnju.\n"
+"\n"
+"Pokušajte riješiti problem reinstalacijom programa."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2135
+msgid "Upgrading the catalog, please wait..."
+msgstr "Dograđujem katalog pa molim strpljenja..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2147
+msgid ""
+"This catalog has been created with an older version of VVV so you need to convert it to a newer format.\n"
+"\n"
+msgstr ""
+"Ovaj katalog je stvoren pomoću ranije verzije programa VVV pa ga treba pretvoriti u novi oblik.\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2148
+msgid ""
+"The conversion will create a new catalog with the same data as the older one, then you will use this new catalog with VVV. You will not use the older catalog any more.\n"
+"\n"
+msgstr ""
+"Pretvaranjem ćete dobiti novi katalog istog sadržaja i naziva koji će koristiti  VVV. Stari oblik će biti izgubljen.\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2149
+msgid "Do you want to convert the catalog creating a new one?"
+msgstr "Pretvoriti katalog stvarajući novi?"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2153
+#: view)\src/mainframe.cpp:2361
+msgid ""
+"Unable to create a new catalog.\n"
+"\n"
+"You are connecting to a database server on another computer. You must execute this program on the server to be able to create a new catalog."
+msgstr ""
+"Ne mogu stvoriti novi katalog.\n"
+"\n"
+"Povezani ste na bazu podataka na drugom računalu. Morate pokrenuti VVV na poslužitelju da bi mogli provesti pretvorbu."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2157
+msgid "Convert to a new catalog"
+msgstr "Pretvori u novi katalog"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2165
+#: view)\src/mainframe.cpp:2373
+msgid ""
+"Unable to find the database backup to restore.\n"
+"\n"
+"You can try reinstalling the program to solve this problem."
+msgstr ""
+"Nema rezervne datoteke za restauraciju.\n"
+"\n"
+"Možda reinstalacija programa riješi taj problem."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2328
+msgid "VVV (Virtual Volumes View): a program to catalog removable devices like CDs and DVDs"
+msgstr "VVV (Virtual Volumes View), katalogizacija sadržaja izmjenjivih diskova CDa i DVDa"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2329
+msgid "Copyright (C) 2007-2010 The VVV Team"
+msgstr "Autorska prava (C) 2007-2008 VVV tim"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2330
+msgid "Fulvio Senore: main developer"
+msgstr "Glavni programer: Fulvio Senore"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2331
+msgid ""
+"\n"
+"Jan Albartus: worked at the portable version and designed the application's icon"
+msgstr ""
+"\n"
+"Jan Albartus: Autor prenosive verzije i ikona"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2332
+msgid "This program uses icons from the Gnome, Ubuntu and Crystal icons projects"
+msgstr "Program koristi icone iz Gnome, Ubuntu i Crystal arhiva"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2333
+msgid "This is open source software, distributed under the GNU GENERAL PUBLIC LICENSE"
+msgstr "Otvoreni softver se koristi pod GNU GENERAL PUBLIC LICENSE"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2345
+msgid "Serbian"
+msgstr "Srpski"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2365
+msgid "New catalog"
+msgstr "Novi katalog"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2415
+msgid "Multiple items"
+msgstr "Višestruke stavke"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2418
+#: view)\src/mainframe.cpp:2469
+msgid "Object description"
+msgstr "Opis stavke"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2431
+msgid "File description"
+msgstr "Opis stavke"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2576
+#: view)\src/mainframe.cpp:3173
+msgid "Add To Virtual Folder"
+msgstr "Dodaj u virtualnu mapu"
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2581
+msgid "Object information..."
+msgstr "&Opis..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2584
+msgid "Rename..."
+msgstr "Preimenovanje..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2585
+#: view)\src/mainframe.cpp:2620
+#: view)\src/mainframe.cpp:3169
+msgid "Delete"
+msgstr "Obriši"
+
+# Part of the Volumes menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2586
+msgid "Update Volume..."
+msgstr "Obnavljanje &kataloga..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2610
+msgid "New Root Folder"
+msgstr "Nova nadmapa"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2613
+msgid "New Subfolder"
+msgstr "Nova podmapa"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2619
+msgid "Rename"
+msgstr "Preimenuj"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2760
+msgid "Please enter some search data"
+msgstr "Što tražite? Unesite nešto!"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2779
+msgid "Incorrect file name search data"
+msgstr "Što tražite? Unesite nešto!"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2790
+msgid "Incorrect extension search data"
+msgstr "Što tražite? Unesite nešto!"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2802
+msgid "Incorrect description search data"
+msgstr "Neispravan opis traženih podataka"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:2907
+msgid "The search did not find anything"
+msgstr "Nije ništa pronađeno"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3056
+msgid "Objects: "
+msgstr "Stavki: "
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3063
+msgid "Total size: "
+msgstr "Ukupna veličina"
+
+# Part of the Edit menu
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3176
+msgid "Object Information..."
+msgstr "&Opis..."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3220
+msgid "Settings"
+msgstr "Postavke"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3310
+msgid ""
+"This command will delete the selected virtual folder, but it will not change the folders in the physical view.\n"
+"\n"
+"Do you really want to delete the selected virtual folder?"
+msgstr ""
+"Ova naredba briše odabranu virtualnu mapu, ali ne mijenja mape stvarnog kataloga.\n"
+"\n"
+"Obrisati odabranu virtualnu mapu?"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3335
+msgid ""
+"This command will delete this volume:\n"
+"\n"
+msgstr ""
+"Naredba će obrisati katalog:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3335
+msgid ""
+"\n"
+"\n"
+"from the VVV catalog. It will not delete any file from your disk.\n"
+"\n"
+"Do you really want to delete this volume?"
+msgstr ""
+"\n"
+"\n"
+"iz VVV kataloga. Na disku se ne briše ništa.\n"
+"\n"
+"Obrisati katalog?"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3345
+msgid "Unable to delete this volume: at least one of its files is used in the virtual view"
+msgstr "Ne mogu obrisati katalog. Barem jedna datoteka se koristi u virtualnom katalogu"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3366
+msgid "Enter the new volume name"
+msgstr "Unesite naziv novog kataloga"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3366
+msgid "Rename volume"
+msgstr "Preimenovanje sadržaja"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3379
+msgid "The new volume name is already present in the database"
+msgstr "Ovaj naziv već postoji u bazi podataka"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3400
+msgid "Rename virtual folder"
+msgstr "Preimenovanje virtualne mape"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3523
+msgid ""
+"This command will delete the selected files from the virtual view, but it will not change the files in the physical view.\n"
+"\n"
+"Do you really want to delete the selected virtual files?"
+msgstr ""
+"Naredba će obrisati virtualne datoteke i nema utjecaja na datoteke stvarnog kataloga.\n"
+"\n"
+"Obrisati odabranu virtualnu datoteku?"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3665
+#: view)\src/mainframe.cpp:3742
+msgid ""
+"Unable to continue. You have choosen an existing file:\n"
+"\n"
+msgstr ""
+"Ne mogu nastaviti. Odabrali ste postojeću datoteku:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3665
+#: view)\src/mainframe.cpp:3742
+#: view)\src/mainframe.cpp:3824
+msgid ""
+"\n"
+"\n"
+"You must type the name of a non-existing file."
+msgstr ""
+"\n"
+"\n"
+"Unesite drugi naziv."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3674
+#: view)\src/mainframe.cpp:3751
+#: view)\src/mainframe.cpp:3833
+msgid "Unable to continue: you have choosen a folder where you do not have the right to create a file."
+msgstr "Ne mogu nastaviti. Odabrali ste mapu u kojoj nemate pravo stvarati datoteke."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3719
+#: view)\src/opencatalog.cpp:255
+#: view)\src/restore.cpp:287
+msgid "VVV backup files (*.vvvbk)|*.vvvbk|All files (*.*)|*.*"
+msgstr "VVV rezervne datoteke (*.vvvbk)|*.vvvbk|Sve datoteke (*.*)|*.*"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3720
+msgid "Backup catalog"
+msgstr "Stvaranje rezervne kopije kataloga"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3765
+msgid "Backup completed"
+msgstr "Rezervne kopija je stvorena"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3788
+msgid ""
+"Unable to restore.\n"
+"\n"
+"You are connecting to a database server on another computer. You must execute this command on the server to be able to restore a catalog."
+msgstr ""
+"Ne mogu restaurirati.\n"
+"\n"
+"Povezani ste na bazu podataka na drugom računalu. Morate pokrenuti VVV na poslužitelju da bi mogli provesti restauraciju."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3802
+msgid "The catalog name is missing"
+msgstr "Nema naziva kataloga"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3806
+msgid "The backup name is missing"
+msgstr "Nema naziva rezervnog kataloga"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3824
+msgid ""
+"Unable to continue. You have choosen an existing catalog:\n"
+"\n"
+msgstr ""
+"Ne mogu nastaviti. Odabrali ste postojeći katalog:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3861
+msgid "Restore completed"
+msgstr "Restauriranje je završeno"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.cpp:3878
+msgid "Update Volume"
+msgstr "Obnavljanje kataloga"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/object_description.cpp:145
+msgid "Please enter the description for the following object:"
+msgstr "Unesite kratak opis za:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/object_description.cpp:148
+msgid "OBJECT NAME"
+msgstr "NAZIV STAVKE"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/opencatalog.cpp:163
+msgid ""
+"You are about to open a catalog located on the server.\n"
+"\n"
+"Enter the alias or the complete path to the catalog file.\n"
+"Remember that the path must be relative to the server, not to the client."
+msgstr ""
+"Otvaranje kataloga lociranog na poslužitelju.\n"
+"\n"
+"Unesite alias ili punu stazu do datoteke kataloga.\n"
+"Staza mora biti relativna prema poslužitelju, a ne prema korisniku."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/opencatalog.cpp:257
+#: view)\src/restore.cpp:305
+msgid "VVV files (*.vvv)|*.vvv|All files (*.*)|*.*"
+msgstr "VVV datoteke (*.vvv)|*.vvv|Sve datoteke (*.*)|*.*"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/opencatalog.cpp:277
+msgid "Open Catalog"
+msgstr "Otvori katalog"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/opencatalog.cpp:281
+msgid "New Catalog"
+msgstr "Novi katalog"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/opencatalog.cpp:285
+msgid "Backup"
+msgstr "Rezervna kopija"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/restore.cpp:154
+msgid ""
+"You are about to create a new catalog from a backup file.\n"
+"\n"
+"Enter the complete path to the backup file and to the catalog file that will be created.\n"
+"You cannot enter the name of an existing catalog."
+msgstr ""
+"Restauriranje kataloga pomoću datoteke rezervne kopije.\n"
+"\n"
+"Unesite potpune staze rezervne kopije i kataloga koji će biti stvoren.\n"
+"Program ne prihvaća nazive kataloga koji već postoje."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/restore.cpp:159
+msgid "Backup file:"
+msgstr "Datoteka rezervne kopije"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/restore.cpp:171
+msgid "New catalog:"
+msgstr "Novi katalog:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/restore.cpp:286
+msgid "Select backup file"
+msgstr "Odabir datoteke rezervne kopije"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/restore.cpp:304
+msgid "Catalog file"
+msgstr "Datoteka kataloga"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:179
+msgid "Reopen the last used catalog at startup"
+msgstr "Pri pokretanju učitaj zadnje otvarani katalog"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:185
+msgid "Beep for tasks longer than (seconds):"
+msgstr "Oglasi zadatak koji traje više od (sekunda):"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:193
+msgid "Change language"
+msgstr "Izmjena jezika"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:196
+msgid "General"
+msgstr "Općenito"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:204
+msgid "Show the following data for audio files:"
+msgstr "Uz audio datoteke prikaži i slijedeće podatke:"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:229
+msgid "Track number"
+msgstr "Broj snimke"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:255
+msgid "Audio files"
+msgstr "Audio datoteke"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:263
+msgid ""
+"Check the checkbox below if you want to access catalogs stored\n"
+"in a network server. Each computer in the network will be able to\n"
+"access the same catalogs stored in the server.\n"
+"DO NOT check the checkbox if you only want to access catalogs\n"
+"stored in this computer and you do not want to share them\n"
+"with other computers."
+msgstr ""
+"Kvačicom označite da želite pristupiti katalogu na mrežnom poslužitelju.\n"
+"Svako računalo u mreži može pristupiti katalozima lociranim na poslužitelju.\n"
+"NE stavljajte kvačicu ukoliko pristupate katalozima na ovom računalu i\n"
+"ne želite ih dijeliti s ostalim računalima."
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:268
+msgid "Connect to a network server"
+msgstr "Spoji se na mrežnog poslužitelja"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:275
+#: view)\src/settings.cpp:298
+msgid "Server"
+msgstr "Poslužitelj"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:281
+msgid "Username"
+msgstr "Korisničko ime"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:287
+msgid "Password"
+msgstr "Lozinka"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:295
+msgid "Test server connection"
+msgstr "Provjeri vezu s poslužiteljom"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:385
+msgid "You must enter a server name or address"
+msgstr "Unesite naziv poslužitelja ili adresu"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:389
+msgid "You must enter a username"
+msgstr "Unesite korisničko ime"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:393
+msgid "You must enter a password"
+msgstr "Unesite lozinku"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:456
+msgid "You must enter the server name or address"
+msgstr "Unesite naziv poslužitelja ili adresu"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:461
+msgid "Unable to connect to the server"
+msgstr "Ne mogu se spojiti na poslužitelja"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/settings.cpp:463
+msgid "Server connection successful"
+msgstr "Spajanje je uspjelo"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/update_volume.cpp:184
+msgid "VOLUME NAME"
+msgstr "Naziv kataloga"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/update_volume.cpp:189
+msgid "Enter or select the path to volume to update"
+msgstr "Unesite ili odaberite stazu kataloga za obnavljanje"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/update_volume.cpp:209
+msgid "Update"
+msgstr "Obnavljanje"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/vvv.cpp:300
+#: view)\src/vvv.cpp:356
+msgid ""
+"Unable to connect to the server\n"
+"\n"
+msgstr ""
+"Ne mogu se spojiti na poslužitelja\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/vvv.cpp:302
+#: view)\src/vvv.cpp:308
+#: view)\src/vvv.cpp:358
+#: view)\src/vvv.cpp:364
+msgid ""
+"An unexpected error has occurred. Here is a description of the error:\n"
+"\n"
+msgstr ""
+"Neočekivana greška slijedećeg opisa:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/vvv.cpp:314
+#: view)\src/vvv.cpp:370
+msgid "An unexpected error has occurred. This application will be terminated"
+msgstr "Došlo je do neočekivane greške. Program će biti zatvoren"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/vvv.cpp:382
+#: view)\src/vvv.cpp:466
+msgid ""
+"An unexpected error has happened. Here is a description of the error:\n"
+"\n"
+msgstr ""
+"Neočekivana greška slijedećeg opisa:\n"
+"\n"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/vvv.cpp:408
+msgid "The volume path does not exists"
+msgstr "Nedostaje staza do kataloga"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/vvv.cpp:449
+msgid "Volume name not found"
+msgstr "Nema kataloga tog naziva"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/dlg_file_information.h:47
+msgid "File information"
+msgstr "Podaci o datoteci"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/exportdata.h:71
+msgid "Export data"
+msgstr "Izvoz podataka"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/mainframe.h:112
+msgid "VVV"
+msgstr "VVV"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/object_description.h:54
+msgid "Object Description"
+msgstr "Opis stavke"
+
+#: E:\C_Prg\vvv
+#: (virtual volumes view)\src/restore.h:46
+msgid "Restore"
+msgstr "Restauriranje kataloga"
+
+#~ msgid "Edit Description..."
+#~ msgstr "Uređivanje opisa..."
+#~ msgid "MP3"
+#~ msgstr "MP3"
+#~ msgid "You are about to update the following volume:"
+#~ msgstr "Obnavljate katalog:"
+#~ msgid "Use VVV in English (restart required)"
+#~ msgstr "Koristi VVV engleski jezik (nakon ponovnog pokretanja)"
+
+#, fuzzy
+#~ msgid "Missing volume name"
+#~ msgstr "Određivanje naziva kataloga"
+#~ msgid "Enter the new forder name"
+#~ msgstr "Unesite naziv nove mape"
+
